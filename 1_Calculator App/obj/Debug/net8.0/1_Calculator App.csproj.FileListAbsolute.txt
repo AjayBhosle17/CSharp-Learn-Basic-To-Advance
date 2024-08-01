@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\bin\Debug\net8.0\1_Calculator App.exe
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\bin\Debug\net8.0\1_Calculator App.deps.json
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\bin\Debug\net8.0\1_Calculator App.runtimeconfig.json
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\bin\Debug\net8.0\1_Calculator App.dll
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\bin\Debug\net8.0\1_Calculator App.pdb
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.dll
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\refint\1_Calculator App.dll
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.pdb
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\ref\1_Calculator App.dll
