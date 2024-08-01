@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\C#2024\0_Introduction\bin\Debug\net8.0\0_Introduction.exe
+C:\Users\DELL\source\repos\C#2024\0_Introduction\bin\Debug\net8.0\0_Introduction.deps.json
+C:\Users\DELL\source\repos\C#2024\0_Introduction\bin\Debug\net8.0\0_Introduction.runtimeconfig.json
+C:\Users\DELL\source\repos\C#2024\0_Introduction\bin\Debug\net8.0\0_Introduction.dll
+C:\Users\DELL\source\repos\C#2024\0_Introduction\bin\Debug\net8.0\0_Introduction.pdb
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.dll
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\refint\0_Introduction.dll
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.pdb
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\ref\0_Introduction.dll
