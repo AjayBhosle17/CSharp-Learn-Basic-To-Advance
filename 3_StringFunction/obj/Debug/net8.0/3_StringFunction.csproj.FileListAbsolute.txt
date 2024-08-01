@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\bin\Debug\net8.0\3_StringFunction.exe
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\bin\Debug\net8.0\3_StringFunction.deps.json
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\bin\Debug\net8.0\3_StringFunction.runtimeconfig.json
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\bin\Debug\net8.0\3_StringFunction.dll
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\bin\Debug\net8.0\3_StringFunction.pdb
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.dll
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\refint\3_StringFunction.dll
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.pdb
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\ref\3_StringFunction.dll
