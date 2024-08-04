@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\bin\Debug\net8.0\4_Date_Time.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\bin\Debug\net8.0\4_Date_Time.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\bin\Debug\net8.0\4_Date_Time.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\bin\Debug\net8.0\4_Date_Time.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\bin\Debug\net8.0\4_Date_Time.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\refint\4_Date_Time.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\4_Date_Time.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\4_Date_Time\obj\Debug\net8.0\ref\4_Date_Time.dll
