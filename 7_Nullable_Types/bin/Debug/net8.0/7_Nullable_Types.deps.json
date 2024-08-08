@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "7_Nullable_Types/1.0.0": {
+        "runtime": {
+          "7_Nullable_Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_Nullable_Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\bin\Debug\net8.0\8_Loop.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\bin\Debug\net8.0\8_Loop.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\bin\Debug\net8.0\8_Loop.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\bin\Debug\net8.0\8_Loop.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\bin\Debug\net8.0\8_Loop.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\refint\8_Loop.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\8_Loop.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\8_Loop\obj\Debug\net8.0\ref\8_Loop.dll
