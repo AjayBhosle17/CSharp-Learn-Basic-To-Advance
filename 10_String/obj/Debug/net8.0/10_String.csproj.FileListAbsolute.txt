@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\bin\Debug\net8.0\10_String.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\bin\Debug\net8.0\10_String.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\bin\Debug\net8.0\10_String.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\bin\Debug\net8.0\10_String.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\bin\Debug\net8.0\10_String.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\refint\10_String.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\10_String.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\10_String\obj\Debug\net8.0\ref\10_String.dll

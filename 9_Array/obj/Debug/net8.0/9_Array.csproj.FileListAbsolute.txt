@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\bin\Debug\net8.0\9_Array.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\bin\Debug\net8.0\9_Array.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\bin\Debug\net8.0\9_Array.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\bin\Debug\net8.0\9_Array.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\bin\Debug\net8.0\9_Array.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\refint\9_Array.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\9_Array.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\9_Array\obj\Debug\net8.0\ref\9_Array.dll
