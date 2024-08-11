@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\bin\Debug\net8.0\13_Practise_Assignment.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\bin\Debug\net8.0\13_Practise_Assignment.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\bin\Debug\net8.0\13_Practise_Assignment.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\bin\Debug\net8.0\13_Practise_Assignment.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\bin\Debug\net8.0\13_Practise_Assignment.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\refint\13_Practise_Assignment.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\13_Practise_Assignment.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\13_Practise_Assignment\obj\Debug\net8.0\ref\13_Practise_Assignment.dll
