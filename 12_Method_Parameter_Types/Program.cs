@@ -1,4 +1,49 @@
 ﻿
+// optional Parameter
+using System.Runtime.InteropServices;
+
+void sum(int a , int b) {
+
+    Console.WriteLine($"sum is {a} + {b} = {a + b}");
+
+}
+
+
+sum(10, 20);
+
+
+void sum1(int a, [Optional] int b)
+{
+
+    Console.WriteLine($"sum is {a} + {b} = {a + b}");
+
+}
+
+
+sum1(20);
+
+
+void sum2(int a, int b=10)
+{
+
+    Console.WriteLine($"sum is {a} + {b} = {a + b }");
+
+}
+
+
+sum2(20);
+
+
+void sum3(int a, [Optional]int b , int c)
+{
+
+    Console.WriteLine($"sum is {a} + {b} + {c} = {a + b+c}");
+
+}
+
+
+sum3(a:40 , c:20);
+
 // Method parameter types
 
 #region 1.pass by value

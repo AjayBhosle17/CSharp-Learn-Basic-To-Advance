@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_Methods", "11_Methods\11
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Method_Parameter_Types", "12_Method_Parameter_Types\12_Method_Parameter_Types.csproj", "{AD08728E-226E-4828-8BC0-A1A933C6BEC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Practise_Assignment", "13_Practise_Assignment\13_Practise_Assignment.csproj", "{0121311E-EA5C-4387-898D-6A0A10834571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Practise_Assignment", "13_Practise_Assignment\13_Practise_Assignment.csproj", "{0121311E-EA5C-4387-898D-6A0A10834571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Classes & Object", "14 Classes & Object\14 Classes & Object.csproj", "{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{0121311E-EA5C-4387-898D-6A0A10834571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0121311E-EA5C-4387-898D-6A0A10834571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0121311E-EA5C-4387-898D-6A0A10834571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

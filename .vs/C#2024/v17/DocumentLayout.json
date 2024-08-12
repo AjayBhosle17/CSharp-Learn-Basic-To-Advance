@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\14 classes \u0026 object\\objectcreateandstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|solutionrelative:14 classes \u0026 object\\objectcreateandstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\14 classes \u0026 object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|solutionrelative:14 classes \u0026 object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0121311E-EA5C-4387-898D-6A0A10834571}|13_Practise_Assignment\\13_Practise_Assignment.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\13_practise_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0121311E-EA5C-4387-898D-6A0A10834571}|13_Practise_Assignment\\13_Practise_Assignment.csproj|solutionrelative:13_practise_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08728E-226E-4828-8BC0-A1A933C6BEC4}|12_Method_Parameter_Types\\12_Method_Parameter_Types.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\12_method_parameter_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08728E-226E-4828-8BC0-A1A933C6BEC4}|12_Method_Parameter_Types\\12_Method_Parameter_Types.csproj|solutionrelative:12_method_parameter_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{607B0C51-54D8-404E-96C5-CE03D3F247BF}|10_String\\10_String.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\10_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{54635EBA-94D9-45E6-92F4-4BABAB4F7094}|8_Loop\\8_Loop.csproj|solutionrelative:8_loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD08728E-226E-4828-8BC0-A1A933C6BEC4}|12_Method_Parameter_Types\\12_Method_Parameter_Types.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\12_method_parameter_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD08728E-226E-4828-8BC0-A1A933C6BEC4}|12_Method_Parameter_Types\\12_Method_Parameter_Types.csproj|solutionrelative:12_method_parameter_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C5BDFDE-3ACD-4087-BB19-73BB1900F08D}|11_Methods\\11_Methods.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\11_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5BDFDE-3ACD-4087-BB19-73BB1900F08D}|11_Methods\\11_Methods.csproj|solutionrelative:11_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -43,31 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ObjectCreateandstatic.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "RelativeDocumentMoniker": "14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "RelativeToolTip": "14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:50:16.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\14 Classes \u0026 Object\\Program.cs",
+              "RelativeDocumentMoniker": "14 Classes \u0026 Object\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\14 Classes \u0026 Object\\Program.cs",
+              "RelativeToolTip": "14 Classes \u0026 Object\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:49:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\Program.cs",
               "RelativeDocumentMoniker": "13_Practise_Assignment\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\Program.cs",
               "RelativeToolTip": "13_Practise_Assignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T17:48:27.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\12_Method_Parameter_Types\\Program.cs",
               "RelativeDocumentMoniker": "12_Method_Parameter_Types\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\12_Method_Parameter_Types\\Program.cs",
               "RelativeToolTip": "12_Method_Parameter_Types\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T06:43:05.17Z"
+              "WhenOpened": "2024-08-10T06:43:05.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\11_Methods\\Program.cs",
               "RelativeDocumentMoniker": "11_Methods\\Program.cs",
@@ -79,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\10_String\\Program.cs",
               "RelativeDocumentMoniker": "10_String\\Program.cs",
@@ -91,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\9_Array\\Program.cs",
               "RelativeDocumentMoniker": "9_Array\\Program.cs",
@@ -103,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\7_Nullable_Types\\Program.cs",
               "RelativeDocumentMoniker": "7_Nullable_Types\\Program.cs",
@@ -115,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\8_Loop\\Program.cs",
               "RelativeDocumentMoniker": "8_Loop\\Program.cs",

@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\bin\Debug\net8.0\14 Classes & Object.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\bin\Debug\net8.0\14 Classes & Object.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\bin\Debug\net8.0\14 Classes & Object.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\bin\Debug\net8.0\14 Classes & Object.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\bin\Debug\net8.0\14 Classes & Object.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\refint\14 Classes & Object.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\14 Classes & Object.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\14 Classes & Object\obj\Debug\net8.0\ref\14 Classes & Object.dll
