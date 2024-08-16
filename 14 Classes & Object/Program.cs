@@ -7,12 +7,20 @@ s1.Age = 22;
 
 s1.display();
 
+
 Student s2 = new Student();
 s2.RollNo = 19;
 s2.Name = "Anjali";
 s2.Age = 22;
 
 s2.display();
+
+Student s3 = new Student();
+s3.RollNo = 19;
+s3.Name = "Anjali";
+s3.Age = 22;
+
+s3.display();
 
 Console.WriteLine(Student.designation);
 // object intializer
@@ -23,3 +31,5 @@ s3.display();
 //Country obj1 = new Country();
 
 //Country obj2 = new Country();
+
+
