@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\bin\Debug\net8.0\15_Constructor.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\bin\Debug\net8.0\15_Constructor.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\bin\Debug\net8.0\15_Constructor.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\bin\Debug\net8.0\15_Constructor.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\bin\Debug\net8.0\15_Constructor.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\refint\15_Constructor.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\15_Constructor.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\15_Constructor\obj\Debug\net8.0\ref\15_Constructor.dll
