@@ -31,6 +31,8 @@ public class Student {
     public string firstName;
     public string lastName;
     public static string Course = "DotNet";
+    
+    // default constructor
     public Student() {
 
         firstName = "NO First Name";
@@ -39,6 +41,8 @@ public class Student {
 
     }
 
+
+    //   parameterized constructor
     public Student(string fn, string ln)
     {
         firstName=fn;
@@ -46,6 +50,14 @@ public class Student {
        // Console.WriteLine($"FullName: {firstName} + {lastName} + {Course}");
     }
 
+    // 
+    public Student(Student student)
+    {
+        firstName = student.firstName;
+        lastName = student.lastName;
+    }
+    
+    //method
     public void FullPrintName() {
         Console.WriteLine($"FullName: {firstName}   {lastName}   {Course}");
 

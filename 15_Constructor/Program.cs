@@ -20,3 +20,6 @@ Student s2 = new Student() { firstName = "Vivek", lastName = "Ingale" };
 s2.firstName = "Samir";
 s2.lastName = "Shaikh";
 s2.FullPrintName();
+
+Student s3 = new Student(s2);
+s3.FullPrintName();
