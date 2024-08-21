@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\bin\Debug\net8.0\16_Inheritance.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\bin\Debug\net8.0\16_Inheritance.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\bin\Debug\net8.0\16_Inheritance.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\bin\Debug\net8.0\16_Inheritance.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\bin\Debug\net8.0\16_Inheritance.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\refint\16_Inheritance.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\16_Inheritance.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\16_Inheritance\obj\Debug\net8.0\ref\16_Inheritance.dll
