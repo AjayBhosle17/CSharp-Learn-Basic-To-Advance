@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|solutionrelative:16_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|solutionrelative:16_inheritance_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|solutionrelative:16_inheritance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance_01\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|solutionrelative:16_inheritance_01\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance\\goldencustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|solutionrelative:16_inheritance\\goldencustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance\\silvercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BAB539-C46F-438D-BDAD-418B8EAC070A}|16_Inheritance\\16_Inheritance.csproj|solutionrelative:16_inheritance\\silvercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance_01\\bcci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|solutionrelative:16_inheritance_01\\bcci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +26,47 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\Customer.cs",
-              "RelativeDocumentMoniker": "16_Inheritance\\Customer.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\Customer.cs",
-              "RelativeToolTip": "16_Inheritance\\Customer.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAA1wBMAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "BCCI.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\BCCI.cs",
+              "RelativeDocumentMoniker": "16_Inheritance_01\\BCCI.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\BCCI.cs",
+              "RelativeToolTip": "16_Inheritance_01\\BCCI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:48:09.739Z",
+              "WhenOpened": "2024-08-23T12:28:17.189Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GoldenCustomer.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\GoldenCustomer.cs",
-              "RelativeDocumentMoniker": "16_Inheritance\\GoldenCustomer.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\GoldenCustomer.cs",
-              "RelativeToolTip": "16_Inheritance\\GoldenCustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "IPL.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\IPL.cs",
+              "RelativeDocumentMoniker": "16_Inheritance_01\\IPL.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\IPL.cs",
+              "RelativeToolTip": "16_Inheritance_01\\IPL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:13:50.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SilverCustomer.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\SilverCustomer.cs",
-              "RelativeDocumentMoniker": "16_Inheritance\\SilverCustomer.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\SilverCustomer.cs",
-              "RelativeToolTip": "16_Inheritance\\SilverCustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:57:49.87Z",
+              "WhenOpened": "2024-08-23T12:30:10.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "16_Inheritance\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance\\Program.cs",
-              "RelativeToolTip": "16_Inheritance\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\Program.cs",
+              "RelativeDocumentMoniker": "16_Inheritance_01\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\Program.cs",
+              "RelativeToolTip": "16_Inheritance_01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:46:31.287Z",
+              "WhenOpened": "2024-08-23T16:39:15.014Z",
               "EditorCaption": ""
             }
           ]
