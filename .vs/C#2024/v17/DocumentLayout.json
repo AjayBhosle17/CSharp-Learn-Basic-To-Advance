@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|solutionrelative:16_inheritance_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\17_this_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|solutionrelative:17_this_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance_01\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|solutionrelative:16_inheritance_01\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\16_inheritance_01\\bcci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E1D01-8A69-41C5-8AA2-50448FDB654F}|16_Inheritance_01\\16_Inheritance_01.csproj|solutionrelative:16_inheritance_01\\bcci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\17_this_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|solutionrelative:17_this_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +22,34 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BCCI.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\BCCI.cs",
-              "RelativeDocumentMoniker": "16_Inheritance_01\\BCCI.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\BCCI.cs",
-              "RelativeToolTip": "16_Inheritance_01\\BCCI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Student.cs",
+              "RelativeDocumentMoniker": "17_this_Keyword\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Student.cs",
+              "RelativeToolTip": "17_this_Keyword\\Student.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:28:17.189Z",
+              "WhenOpened": "2024-08-23T17:57:39.991Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPL.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\IPL.cs",
-              "RelativeDocumentMoniker": "16_Inheritance_01\\IPL.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\IPL.cs",
-              "RelativeToolTip": "16_Inheritance_01\\IPL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:30:10.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\Program.cs",
-              "RelativeDocumentMoniker": "16_Inheritance_01\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\16_Inheritance_01\\Program.cs",
-              "RelativeToolTip": "16_Inheritance_01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAoAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "17_this_Keyword\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Program.cs",
+              "RelativeToolTip": "17_this_Keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:39:15.014Z",
+              "WhenOpened": "2024-08-23T17:56:16.054Z",
               "EditorCaption": ""
             }
           ]
