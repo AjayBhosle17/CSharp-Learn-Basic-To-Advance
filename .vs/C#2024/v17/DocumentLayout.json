@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\17_this_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|solutionrelative:17_this_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9CCED42-A9C1-4C59-B057-19345B0D7615}|19_Method_Hiding\\19_Method_Hiding.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\19_method_hiding\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CCED42-A9C1-4C59-B057-19345B0D7615}|19_Method_Hiding\\19_Method_Hiding.csproj|solutionrelative:19_method_hiding\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\17_this_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{244324F8-DF3A-4D46-A267-913440D81AA7}|17_this_Keyword\\17_this_Keyword.csproj|solutionrelative:17_this_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9CCED42-A9C1-4C59-B057-19345B0D7615}|19_Method_Hiding\\19_Method_Hiding.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\19_method_hiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CCED42-A9C1-4C59-B057-19345B0D7615}|19_Method_Hiding\\19_Method_Hiding.csproj|solutionrelative:19_method_hiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CCED42-A9C1-4C59-B057-19345B0D7615}|19_Method_Hiding\\19_Method_Hiding.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\19_method_hiding\\silvercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CCED42-A9C1-4C59-B057-19345B0D7615}|19_Method_Hiding\\19_Method_Hiding.csproj|solutionrelative:19_method_hiding\\silvercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,33 +27,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Student.cs",
-              "RelativeDocumentMoniker": "17_this_Keyword\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Student.cs",
-              "RelativeToolTip": "17_this_Keyword\\Student.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA1wCMAAAABAAAA",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\19_Method_Hiding\\Customer.cs",
+              "RelativeDocumentMoniker": "19_Method_Hiding\\Customer.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\19_Method_Hiding\\Customer.cs",
+              "RelativeToolTip": "19_Method_Hiding\\Customer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:57:39.991Z",
+              "WhenOpened": "2024-08-24T04:28:13.818Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SilverCustomer.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\19_Method_Hiding\\SilverCustomer.cs",
+              "RelativeDocumentMoniker": "19_Method_Hiding\\SilverCustomer.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\19_Method_Hiding\\SilverCustomer.cs",
+              "RelativeToolTip": "19_Method_Hiding\\SilverCustomer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:28:32.83Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Program.cs",
-              "RelativeDocumentMoniker": "17_this_Keyword\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\17_this_Keyword\\Program.cs",
-              "RelativeToolTip": "17_this_Keyword\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\19_Method_Hiding\\Program.cs",
+              "RelativeDocumentMoniker": "19_Method_Hiding\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\19_Method_Hiding\\Program.cs",
+              "RelativeToolTip": "19_Method_Hiding\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:56:16.054Z",
+              "WhenOpened": "2024-08-24T04:29:03.405Z",
               "EditorCaption": ""
             }
           ]
