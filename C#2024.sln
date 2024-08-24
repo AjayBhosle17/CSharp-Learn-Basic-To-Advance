@@ -45,6 +45,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18_Base_Keyword", "18_Base_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19_Method_Hiding", "19_Method_Hiding\19_Method_Hiding.csproj", "{D9CCED42-A9C1-4C59-B057-19345B0D7615}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Polymorphism_Overiding", "20_Polymorphism_Overiding\20_Polymorphism_Overiding.csproj", "{6B8A1AD4-48B2-4658-8083-2FED982E8FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Polymorphism_Overloading", "20_Polymorphism_Overloading\20_Polymorphism_Overloading.csproj", "{171F0D87-2E7F-40DC-BAF4-94A0F0C1826B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{D9CCED42-A9C1-4C59-B057-19345B0D7615}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9CCED42-A9C1-4C59-B057-19345B0D7615}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9CCED42-A9C1-4C59-B057-19345B0D7615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8A1AD4-48B2-4658-8083-2FED982E8FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8A1AD4-48B2-4658-8083-2FED982E8FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8A1AD4-48B2-4658-8083-2FED982E8FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8A1AD4-48B2-4658-8083-2FED982E8FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171F0D87-2E7F-40DC-BAF4-94A0F0C1826B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171F0D87-2E7F-40DC-BAF4-94A0F0C1826B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171F0D87-2E7F-40DC-BAF4-94A0F0C1826B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171F0D87-2E7F-40DC-BAF4-94A0F0C1826B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
