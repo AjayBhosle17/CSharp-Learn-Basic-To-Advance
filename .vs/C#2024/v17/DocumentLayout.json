@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{784D14EB-31D7-464C-9A56-A9592022AD77}|20_polymorphism_Opeartor_OverLoading\\20_polymorphism_Opeartor_OverLoading.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\20_polymorphism_opeartor_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784D14EB-31D7-464C-9A56-A9592022AD77}|20_polymorphism_Opeartor_OverLoading\\20_polymorphism_Opeartor_OverLoading.csproj|solutionrelative:20_polymorphism_opeartor_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}|23_AccessSpecifier_Assembly2\\23_AccessSpecifier_Assembly2.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\23_accessspecifier_assembly2\\x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}|23_AccessSpecifier_Assembly2\\23_AccessSpecifier_Assembly2.csproj|solutionrelative:23_accessspecifier_assembly2\\x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{784D14EB-31D7-464C-9A56-A9592022AD77}|20_polymorphism_Opeartor_OverLoading\\20_polymorphism_Opeartor_OverLoading.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\20_polymorphism_opeartor_overloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784D14EB-31D7-464C-9A56-A9592022AD77}|20_polymorphism_Opeartor_OverLoading\\20_polymorphism_Opeartor_OverLoading.csproj|solutionrelative:20_polymorphism_opeartor_overloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}|23_AccessSpecifier_Assembly1\\23_AccessSpecifier_Assembly1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\23_accessspecifier_assembly1\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}|23_AccessSpecifier_Assembly1\\23_AccessSpecifier_Assembly1.csproj|solutionrelative:23_accessspecifier_assembly1\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}|23_AccessSpecifier_Assembly1\\23_AccessSpecifier_Assembly1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\23_accessspecifier_assembly1\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}|23_AccessSpecifier_Assembly1\\23_AccessSpecifier_Assembly1.csproj|solutionrelative:23_accessspecifier_assembly1\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}|23_AccessSpecifier_Assembly1\\23_AccessSpecifier_Assembly1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\23_accessspecifier_assembly1\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}|23_AccessSpecifier_Assembly1\\23_AccessSpecifier_Assembly1.csproj|solutionrelative:23_accessspecifier_assembly1\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}|23_AccessSpecifier_Assembly2\\23_AccessSpecifier_Assembly2.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\23_accessspecifier_assembly2\\y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}|23_AccessSpecifier_Assembly2\\23_AccessSpecifier_Assembly2.csproj|solutionrelative:23_accessspecifier_assembly2\\y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}|23_AccessSpecifier_Assembly2\\23_AccessSpecifier_Assembly2.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\23_accessspecifier_assembly2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}|23_AccessSpecifier_Assembly2\\23_AccessSpecifier_Assembly2.csproj|solutionrelative:23_accessspecifier_assembly2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,43 +34,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 199,
-          "SelectedChildIndex": 1,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
-              "RelativeDocumentMoniker": "20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
-              "RelativeToolTip": "20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAlAAAA",
+              "Title": "A.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly1\\A.cs",
+              "RelativeDocumentMoniker": "23_AccessSpecifier_Assembly1\\A.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly1\\A.cs",
+              "RelativeToolTip": "23_AccessSpecifier_Assembly1\\A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T09:22:03.236Z",
+              "WhenOpened": "2024-08-27T09:31:23.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\20_polymorphism_Opeartor_OverLoading\\Program.cs",
-              "RelativeDocumentMoniker": "20_polymorphism_Opeartor_OverLoading\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\20_polymorphism_Opeartor_OverLoading\\Program.cs",
-              "RelativeToolTip": "20_polymorphism_Opeartor_OverLoading\\Program.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAmwGYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "B.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly1\\B.cs",
+              "RelativeDocumentMoniker": "23_AccessSpecifier_Assembly1\\B.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly1\\B.cs",
+              "RelativeToolTip": "23_AccessSpecifier_Assembly1\\B.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T09:24:57.639Z",
+              "WhenOpened": "2024-08-27T09:34:45.559Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly1\\C.cs",
+              "RelativeDocumentMoniker": "23_AccessSpecifier_Assembly1\\C.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly1\\C.cs",
+              "RelativeToolTip": "23_AccessSpecifier_Assembly1\\C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:35:03.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "X.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly2\\X.cs",
+              "RelativeDocumentMoniker": "23_AccessSpecifier_Assembly2\\X.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly2\\X.cs",
+              "RelativeToolTip": "23_AccessSpecifier_Assembly2\\X.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:36:05.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Y.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly2\\Y.cs",
+              "RelativeDocumentMoniker": "23_AccessSpecifier_Assembly2\\Y.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly2\\Y.cs",
+              "RelativeToolTip": "23_AccessSpecifier_Assembly2\\Y.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:36:53.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly2\\Program.cs",
+              "RelativeDocumentMoniker": "23_AccessSpecifier_Assembly2\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\23_AccessSpecifier_Assembly2\\Program.cs",
+              "RelativeToolTip": "23_AccessSpecifier_Assembly2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:33:01.684Z"
             }
           ]
         }

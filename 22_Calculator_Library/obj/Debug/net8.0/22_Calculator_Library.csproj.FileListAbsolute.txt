@@ -1,0 +1,12 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\bin\Debug\net8.0\22_Calculator_Library.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\bin\Debug\net8.0\22_Calculator_Library.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\bin\Debug\net8.0\22_Calculator_Library.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\refint\22_Calculator_Library.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\22_Calculator_Library.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\22_Calculator_Library\obj\Debug\net8.0\ref\22_Calculator_Library.dll

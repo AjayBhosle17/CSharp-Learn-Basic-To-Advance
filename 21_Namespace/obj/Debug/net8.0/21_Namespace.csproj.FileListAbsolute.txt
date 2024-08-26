@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\bin\Debug\net8.0\21_Namespace.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\bin\Debug\net8.0\21_Namespace.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\bin\Debug\net8.0\21_Namespace.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\bin\Debug\net8.0\21_Namespace.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\bin\Debug\net8.0\21_Namespace.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\refint\21_Namespace.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\21_Namespace.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\21_Namespace\obj\Debug\net8.0\ref\21_Namespace.dll
