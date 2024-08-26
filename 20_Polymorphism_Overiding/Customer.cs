@@ -66,3 +66,23 @@ class JuniorEmployee : SeniorEmployee {
     }
 
 }
+
+
+
+public class Parent {
+
+    public virtual void print() {
+
+        Console.WriteLine("Parent Method");
+    }
+}
+
+public class Child : Parent {
+
+    public override void print()
+    {
+
+        Console.WriteLine("Child Method");
+    }
+
+}

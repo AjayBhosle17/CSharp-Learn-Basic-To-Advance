@@ -14,6 +14,9 @@ obj.Print(ref a);
 float b = 1.5f;
 obj.Print(out b);
 
+float c = obj.sum(10,10.5f);
+Console.WriteLine(c);
+
 
 
 

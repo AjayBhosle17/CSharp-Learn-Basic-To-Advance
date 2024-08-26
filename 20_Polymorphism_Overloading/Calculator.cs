@@ -58,7 +58,15 @@ public class Calculator {
 
     public float sum(int x, float y) {
 
-        return x;
+        return x+y;
 
     }
+
+    public int sum(float x, int y)
+    {
+
+        return y;
+
+    }
+
 }

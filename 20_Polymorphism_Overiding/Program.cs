@@ -37,3 +37,6 @@ foreach (Company comp in company) {
     comp.details();
 
 }
+
+Parent p = new Child();
+p.print();
