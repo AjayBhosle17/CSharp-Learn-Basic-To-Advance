@@ -57,9 +57,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_Calculator_Library", "22
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_Math_Library", "22_Math_Library\22_Math_Library.csproj", "{0DDF6D00-E8C6-4969-B8C0-31B3A9DA22A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_AccessSpecifier_Assembly1", "23_AccessSpecifier_Assembly1\23_AccessSpecifier_Assembly1.csproj", "{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_AccessSpecifier_Assembly1", "23_AccessSpecifier_Assembly1\23_AccessSpecifier_Assembly1.csproj", "{D2DF3389-5091-4FC0-843D-67B1CDC08EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_AccessSpecifier_Assembly2", "23_AccessSpecifier_Assembly2\23_AccessSpecifier_Assembly2.csproj", "{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_AccessSpecifier_Assembly2", "23_AccessSpecifier_Assembly2\23_AccessSpecifier_Assembly2.csproj", "{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Abstraction", "24_Abstraction\24_Abstraction.csproj", "{BAC6EE77-DACC-4264-9840-0558F3D0FF38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
