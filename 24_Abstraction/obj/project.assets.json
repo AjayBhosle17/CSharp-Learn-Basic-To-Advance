@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\24_Abstraction\\24_Abstraction.csproj",
-      "projectName": "24_Abstraction",
-      "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\24_Abstraction\\24_Abstraction.csproj",
+      "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\24_Abstraction\\24_Abstract.csproj",
+      "projectName": "24_Abstract",
+      "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\24_Abstraction\\24_Abstract.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\24_Abstraction\\obj\\",
       "projectStyle": "PackageReference",

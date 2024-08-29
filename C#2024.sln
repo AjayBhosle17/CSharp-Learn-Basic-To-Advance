@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_AccessSpecifier_Assembly
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_AccessSpecifier_Assembly2", "23_AccessSpecifier_Assembly2\23_AccessSpecifier_Assembly2.csproj", "{427781B9-62FF-4DB7-8958-8C10AA8D4EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Abstraction", "24_Abstraction\24_Abstraction.csproj", "{BAC6EE77-DACC-4264-9840-0558F3D0FF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24_Abstract", "24_Abstraction\24_Abstract.csproj", "{BAC6EE77-DACC-4264-9840-0558F3D0FF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Interface", "25_Interface\25_Interface.csproj", "{2CB165C9-3869-41E4-84FF-E072BE5424CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC6EE77-DACC-4264-9840-0558F3D0FF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
