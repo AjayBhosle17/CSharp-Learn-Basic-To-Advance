@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\bin\Debug\net8.0\29_Indexer.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\bin\Debug\net8.0\29_Indexer.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\bin\Debug\net8.0\29_Indexer.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\bin\Debug\net8.0\29_Indexer.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\bin\Debug\net8.0\29_Indexer.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\refint\29_Indexer.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\29_Indexer.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\29_Indexer\obj\Debug\net8.0\ref\29_Indexer.dll

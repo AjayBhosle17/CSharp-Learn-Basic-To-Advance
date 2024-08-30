@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\bin\Debug\net8.0\28_Property.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\bin\Debug\net8.0\28_Property.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\bin\Debug\net8.0\28_Property.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\bin\Debug\net8.0\28_Property.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\bin\Debug\net8.0\28_Property.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\refint\28_Property.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\28_Property.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\28_Property\obj\Debug\net8.0\ref\28_Property.dll

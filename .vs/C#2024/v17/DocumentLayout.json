@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F097C4BB-6E3A-42A1-9481-2958F0AA238D}|27_Composition\\27_Composition.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\27_composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F097C4BB-6E3A-42A1-9481-2958F0AA238D}|27_Composition\\27_Composition.csproj|solutionrelative:27_composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F097C4BB-6E3A-42A1-9481-2958F0AA238D}|27_Composition\\27_Composition.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\27_composition\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F097C4BB-6E3A-42A1-9481-2958F0AA238D}|27_Composition\\27_Composition.csproj|solutionrelative:27_composition\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F097C4BB-6E3A-42A1-9481-2958F0AA238D}|27_Composition\\27_Composition.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\27_composition\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F097C4BB-6E3A-42A1-9481-2958F0AA238D}|27_Composition\\27_Composition.csproj|solutionrelative:27_composition\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\28_property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|solutionrelative:28_property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\28_property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|solutionrelative:28_property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +38,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\27_Composition\\Company.cs",
-              "RelativeDocumentMoniker": "27_Composition\\Company.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\27_Composition\\Company.cs",
-              "RelativeToolTip": "27_Composition\\Company.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAXAAAA",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Employee.cs",
+              "RelativeDocumentMoniker": "29_Indexer\\Employee.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Employee.cs",
+              "RelativeToolTip": "29_Indexer\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:40:31.022Z",
+              "WhenOpened": "2024-09-04T11:17:10.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\27_Composition\\Employee.cs",
-              "RelativeDocumentMoniker": "27_Composition\\Employee.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\27_Composition\\Employee.cs",
-              "RelativeToolTip": "27_Composition\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Company.cs",
+              "RelativeDocumentMoniker": "29_Indexer\\Company.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Company.cs",
+              "RelativeToolTip": "29_Indexer\\Company.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:40:45.564Z",
+              "WhenOpened": "2024-09-04T11:16:57.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Program.cs",
+              "RelativeDocumentMoniker": "28_Property\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Program.cs",
+              "RelativeToolTip": "28_Property\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:16:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Student.cs",
+              "RelativeDocumentMoniker": "28_Property\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Student.cs",
+              "RelativeToolTip": "28_Property\\Student.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:16:17.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\27_Composition\\Program.cs",
-              "RelativeDocumentMoniker": "27_Composition\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\27_Composition\\Program.cs",
-              "RelativeToolTip": "27_Composition\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA0AAAAQAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "29_Indexer\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Program.cs",
+              "RelativeToolTip": "29_Indexer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:39:32.475Z",
+              "WhenOpened": "2024-09-04T11:16:35.21Z",
               "EditorCaption": ""
             }
           ]
