@@ -20,6 +20,10 @@ public interface IBatch23 {
         Console.WriteLine("Static Constructor");
     }
     public abstract void BatchTime();
+    static IBatch23(){
+
+	Console.WriteLine("Static constructor Called");
+    }
     //void BatchTime();  //above line and this line is same 
 }
 public interface IBatch24 { 
