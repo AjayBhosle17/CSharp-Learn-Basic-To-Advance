@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\bin\Debug\net8.0\26_Interface.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\bin\Debug\net8.0\26_Interface.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\bin\Debug\net8.0\26_Interface.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\bin\Debug\net8.0\26_Interface.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\bin\Debug\net8.0\26_Interface.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\refint\26_Interface.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\26_Interface.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Interface\obj\Debug\net8.0\ref\26_Interface.dll

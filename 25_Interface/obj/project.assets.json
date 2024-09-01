@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\25_Interface\\25_Interface.csproj",
-      "projectName": "25_Interface",
-      "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\25_Interface\\25_Interface.csproj",
+      "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\25_Interface\\26_Interface.csproj",
+      "projectName": "26_Interface",
+      "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\25_Interface\\26_Interface.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\25_Interface\\obj\\",
       "projectStyle": "PackageReference",

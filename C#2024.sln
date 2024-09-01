@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_AccessSpecifier_Assembly
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24_Abstract", "24_Abstraction\24_Abstract.csproj", "{BAC6EE77-DACC-4264-9840-0558F3D0FF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Interface", "25_Interface\25_Interface.csproj", "{2CB165C9-3869-41E4-84FF-E072BE5424CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_Interface", "25_Interface\26_Interface.csproj", "{2CB165C9-3869-41E4-84FF-E072BE5424CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Diamond_Problem", "25_Diamond_Problem\25_Diamond_Problem.csproj", "{A5A2F461-EDF1-48B2-A85D-87B8C11A2E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB165C9-3869-41E4-84FF-E072BE5424CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A2F461-EDF1-48B2-A85D-87B8C11A2E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A2F461-EDF1-48B2-A85D-87B8C11A2E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A2F461-EDF1-48B2-A85D-87B8C11A2E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A2F461-EDF1-48B2-A85D-87B8C11A2E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
