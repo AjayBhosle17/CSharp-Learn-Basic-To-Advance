@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\bin\Debug\net8.0\26_AbstractionEncapsulation.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\bin\Debug\net8.0\26_AbstractionEncapsulation.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\bin\Debug\net8.0\26_AbstractionEncapsulation.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\bin\Debug\net8.0\26_AbstractionEncapsulation.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\bin\Debug\net8.0\26_AbstractionEncapsulation.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\refint\26_AbstractionEncapsulation.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\26_AbstractionEncapsulation.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\26_AbstractionEncapsulation\obj\Debug\net8.0\ref\26_AbstractionEncapsulation.dll
