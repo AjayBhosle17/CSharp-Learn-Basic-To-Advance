@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\bin\Debug\net8.0\30_Exception.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\bin\Debug\net8.0\30_Exception.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\bin\Debug\net8.0\30_Exception.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\bin\Debug\net8.0\30_Exception.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\bin\Debug\net8.0\30_Exception.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\refint\30_Exception.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\30_Exception.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\30_Exception\obj\Debug\net8.0\ref\30_Exception.dll

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\30_exception_1\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|solutionrelative:30_exception_1\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\30_exception_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|solutionrelative:30_exception_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\28_property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|solutionrelative:28_property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\28_property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{167CF460-96E8-4ABA-8C80-F62AB477E528}|28_Property\\28_Property.csproj|solutionrelative:28_property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\30_exception_1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|solutionrelative:30_exception_1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,81 +22,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Employee.cs",
-              "RelativeDocumentMoniker": "29_Indexer\\Employee.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Employee.cs",
-              "RelativeToolTip": "29_Indexer\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:17:10.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Company.cs",
-              "RelativeDocumentMoniker": "29_Indexer\\Company.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Company.cs",
-              "RelativeToolTip": "29_Indexer\\Company.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:16:57.88Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Program.cs",
-              "RelativeDocumentMoniker": "28_Property\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Program.cs",
-              "RelativeToolTip": "28_Property\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T12:16:15.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Student.cs",
-              "RelativeDocumentMoniker": "28_Property\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\28_Property\\Student.cs",
-              "RelativeToolTip": "28_Property\\Student.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T12:16:17.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Program.cs",
-              "RelativeDocumentMoniker": "29_Indexer\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\29_Indexer\\Program.cs",
-              "RelativeToolTip": "29_Indexer\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "30_Exception_1\\MyCustomException.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\MyCustomException.cs",
+              "RelativeToolTip": "30_Exception_1\\MyCustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:16:35.21Z",
+              "WhenOpened": "2024-09-05T12:09:51.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Calculator.cs",
+              "RelativeDocumentMoniker": "30_Exception_1\\Calculator.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Calculator.cs",
+              "RelativeToolTip": "30_Exception_1\\Calculator.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAQwIUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:47:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Program.cs",
+              "RelativeDocumentMoniker": "30_Exception_1\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Program.cs",
+              "RelativeToolTip": "30_Exception_1\\Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAH4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:46:51.573Z",
               "EditorCaption": ""
             }
           ]
