@@ -12,3 +12,18 @@ C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\refint\3_Str
 C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.pdb
 C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\3_StringFunction.genruntimeconfig.cache
 C:\Users\DELL\source\repos\C#2024\3_StringFunction\obj\Debug\net8.0\ref\3_StringFunction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\bin\Debug\net8.0\3_StringFunction.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\bin\Debug\net8.0\3_StringFunction.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\bin\Debug\net8.0\3_StringFunction.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\bin\Debug\net8.0\3_StringFunction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\bin\Debug\net8.0\3_StringFunction.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\refint\3_StringFunction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\3_StringFunction.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\3_StringFunction\obj\Debug\net8.0\ref\3_StringFunction.dll

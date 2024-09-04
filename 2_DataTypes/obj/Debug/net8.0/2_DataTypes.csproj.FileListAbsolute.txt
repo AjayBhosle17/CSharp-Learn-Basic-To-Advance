@@ -12,3 +12,18 @@ C:\Users\DELL\source\repos\C#2024\2_DataTypes\obj\Debug\net8.0\refint\2_DataType
 C:\Users\DELL\source\repos\C#2024\2_DataTypes\obj\Debug\net8.0\2_DataTypes.pdb
 C:\Users\DELL\source\repos\C#2024\2_DataTypes\obj\Debug\net8.0\2_DataTypes.genruntimeconfig.cache
 C:\Users\DELL\source\repos\C#2024\2_DataTypes\obj\Debug\net8.0\ref\2_DataTypes.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\bin\Debug\net8.0\2_DataTypes.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\bin\Debug\net8.0\2_DataTypes.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\bin\Debug\net8.0\2_DataTypes.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\bin\Debug\net8.0\2_DataTypes.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\bin\Debug\net8.0\2_DataTypes.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\refint\2_DataTypes.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\2_DataTypes.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\2_DataTypes\obj\Debug\net8.0\ref\2_DataTypes.dll

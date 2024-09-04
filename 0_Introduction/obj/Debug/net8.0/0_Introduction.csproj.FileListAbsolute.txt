@@ -12,3 +12,18 @@ C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\refint\0_Intro
 C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.pdb
 C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\0_Introduction.genruntimeconfig.cache
 C:\Users\DELL\source\repos\C#2024\0_Introduction\obj\Debug\net8.0\ref\0_Introduction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\bin\Debug\net8.0\0_Introduction.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\bin\Debug\net8.0\0_Introduction.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\bin\Debug\net8.0\0_Introduction.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\bin\Debug\net8.0\0_Introduction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\bin\Debug\net8.0\0_Introduction.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\refint\0_Introduction.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\0_Introduction.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\0_Introduction\obj\Debug\net8.0\ref\0_Introduction.dll

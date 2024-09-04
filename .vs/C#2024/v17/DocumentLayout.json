@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\33_objecttype\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|solutionrelative:33_objecttype\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D43EC3-9ECD-4B13-8FF3-883A7BE65346}|32_Var_Dynamic_Keyword\\32_Var_Dynamic_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\32_var_dynamic_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D43EC3-9ECD-4B13-8FF3-883A7BE65346}|32_Var_Dynamic_Keyword\\32_Var_Dynamic_Keyword.csproj|solutionrelative:32_var_dynamic_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\33_objecttype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|solutionrelative:33_objecttype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D43EC3-9ECD-4B13-8FF3-883A7BE65346}|32_Var_Dynamic_Keyword\\32_Var_Dynamic_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\32_var_dynamic_keyword\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D43EC3-9ECD-4B13-8FF3-883A7BE65346}|32_Var_Dynamic_Keyword\\32_Var_Dynamic_Keyword.csproj|solutionrelative:32_var_dynamic_keyword\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Customer.cs",
-              "RelativeDocumentMoniker": "33_ObjectType\\Customer.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Customer.cs",
-              "RelativeToolTip": "33_ObjectType\\Customer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBkAAAAoAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\32_Var_Dynamic_Keyword\\Customer.cs",
+              "RelativeDocumentMoniker": "32_Var_Dynamic_Keyword\\Customer.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\32_Var_Dynamic_Keyword\\Customer.cs",
+              "RelativeToolTip": "32_Var_Dynamic_Keyword\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:13:10.078Z",
+              "WhenOpened": "2024-09-06T04:51:14.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Program.cs",
-              "RelativeDocumentMoniker": "33_ObjectType\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Program.cs",
-              "RelativeToolTip": "33_ObjectType\\Program.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAEwHIAAAAXAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\32_Var_Dynamic_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "32_Var_Dynamic_Keyword\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\32_Var_Dynamic_Keyword\\Program.cs",
+              "RelativeToolTip": "32_Var_Dynamic_Keyword\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:12:05.496Z",
+              "WhenOpened": "2024-09-06T04:49:38.142Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\bin\Debug\net8.0\24_Abstract.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\bin\Debug\net8.0\24_Abstract.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\bin\Debug\net8.0\24_Abstract.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\bin\Debug\net8.0\24_Abstract.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\bin\Debug\net8.0\24_Abstract.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\refint\24_Abstract.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\24_Abstract.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\24_Abstraction\obj\Debug\net8.0\ref\24_Abstract.dll

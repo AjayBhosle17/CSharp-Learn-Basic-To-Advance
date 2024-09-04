@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\bin\Debug\net8.0\32_Var_Dynamic_Keyword.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\bin\Debug\net8.0\32_Var_Dynamic_Keyword.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\bin\Debug\net8.0\32_Var_Dynamic_Keyword.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\bin\Debug\net8.0\32_Var_Dynamic_Keyword.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\bin\Debug\net8.0\32_Var_Dynamic_Keyword.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\refint\32_Var_Dynamic_Keyword.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\32_Var_Dynamic_Keyword.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\32_Var_Dynamic_Keyword\obj\Debug\net8.0\ref\32_Var_Dynamic_Keyword.dll

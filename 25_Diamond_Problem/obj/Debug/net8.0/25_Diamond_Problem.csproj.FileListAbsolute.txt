@@ -1,0 +1,5 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Diamond_Problem\obj\Debug\net8.0\25_Diamond_Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Diamond_Problem\obj\Debug\net8.0\25_Diamond_Problem.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Diamond_Problem\obj\Debug\net8.0\25_Diamond_Problem.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Diamond_Problem\obj\Debug\net8.0\25_Diamond_Problem.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\25_Diamond_Problem\obj\Debug\net8.0\25_Diamond_Problem.sourcelink.json

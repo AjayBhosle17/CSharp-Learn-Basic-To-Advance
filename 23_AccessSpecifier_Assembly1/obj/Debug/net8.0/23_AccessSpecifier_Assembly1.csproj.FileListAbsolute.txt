@@ -1,0 +1,12 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\bin\Debug\net8.0\23_AccessSpecifier_Assembly1.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\bin\Debug\net8.0\23_AccessSpecifier_Assembly1.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\bin\Debug\net8.0\23_AccessSpecifier_Assembly1.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\refint\23_AccessSpecifier_Assembly1.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\23_AccessSpecifier_Assembly1.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\23_AccessSpecifier_Assembly1\obj\Debug\net8.0\ref\23_AccessSpecifier_Assembly1.dll

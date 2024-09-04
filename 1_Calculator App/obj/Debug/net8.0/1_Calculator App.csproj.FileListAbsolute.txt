@@ -12,3 +12,18 @@ C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\refint\1_Cal
 C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.pdb
 C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\1_Calculator App.genruntimeconfig.cache
 C:\Users\DELL\source\repos\C#2024\1_Calculator App\obj\Debug\net8.0\ref\1_Calculator App.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\bin\Debug\net8.0\1_Calculator App.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\bin\Debug\net8.0\1_Calculator App.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\bin\Debug\net8.0\1_Calculator App.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\bin\Debug\net8.0\1_Calculator App.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\bin\Debug\net8.0\1_Calculator App.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\refint\1_Calculator App.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\1_Calculator App.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\1_Calculator App\obj\Debug\net8.0\ref\1_Calculator App.dll
