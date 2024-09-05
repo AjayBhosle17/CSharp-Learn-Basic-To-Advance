@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\31_customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|solutionrelative:31_customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\33_objecttype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|solutionrelative:33_objecttype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\31_customexception\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|solutionrelative:31_customexception\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\33_objecttype\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1816CFA8-17E7-46D8-8245-8106EDDA9531}|33_ObjectType\\33_ObjectType.csproj|solutionrelative:33_objecttype\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "myCustomException.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\myCustomException.cs",
-              "RelativeDocumentMoniker": "31_CustomException\\myCustomException.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\myCustomException.cs",
-              "RelativeToolTip": "31_CustomException\\myCustomException.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAA7AAAA",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Customer.cs",
+              "RelativeDocumentMoniker": "33_ObjectType\\Customer.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Customer.cs",
+              "RelativeToolTip": "33_ObjectType\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T12:50:32.077Z",
+              "WhenOpened": "2024-09-05T17:13:10.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\Program.cs",
-              "RelativeDocumentMoniker": "31_CustomException\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\Program.cs",
-              "RelativeToolTip": "31_CustomException\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAA6AAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Program.cs",
+              "RelativeDocumentMoniker": "33_ObjectType\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\33_ObjectType\\Program.cs",
+              "RelativeToolTip": "33_ObjectType\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T12:50:12.22Z",
+              "WhenOpened": "2024-09-05T17:12:05.496Z",
               "EditorCaption": ""
             }
           ]

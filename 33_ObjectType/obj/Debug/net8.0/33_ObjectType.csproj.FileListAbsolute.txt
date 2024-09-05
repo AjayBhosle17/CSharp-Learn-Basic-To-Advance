@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\bin\Debug\net8.0\33_ObjectType.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\bin\Debug\net8.0\33_ObjectType.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\bin\Debug\net8.0\33_ObjectType.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\bin\Debug\net8.0\33_ObjectType.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\bin\Debug\net8.0\33_ObjectType.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\refint\33_ObjectType.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\33_ObjectType.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\33_ObjectType\obj\Debug\net8.0\ref\33_ObjectType.dll
