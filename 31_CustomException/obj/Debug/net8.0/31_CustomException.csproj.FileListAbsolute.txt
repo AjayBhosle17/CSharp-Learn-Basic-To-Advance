@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\bin\Debug\net8.0\31_CustomException.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\bin\Debug\net8.0\31_CustomException.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\bin\Debug\net8.0\31_CustomException.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\bin\Debug\net8.0\31_CustomException.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\bin\Debug\net8.0\31_CustomException.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\refint\31_CustomException.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\31_CustomException.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\31_CustomException\obj\Debug\net8.0\ref\31_CustomException.dll

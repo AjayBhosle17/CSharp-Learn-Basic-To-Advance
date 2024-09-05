@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\30_exception_1\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|solutionrelative:30_exception_1\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\31_customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|solutionrelative:31_customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\30_exception_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|solutionrelative:30_exception_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\30_exception_1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916B6026-D97E-4DB3-ABDA-26C932AFC897}|30_Exception_1\\30_Exception_1.csproj|solutionrelative:30_exception_1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\31_customexception\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|solutionrelative:31_customexception\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,55 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyCustomException.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\MyCustomException.cs",
-              "RelativeDocumentMoniker": "30_Exception_1\\MyCustomException.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\MyCustomException.cs",
-              "RelativeToolTip": "30_Exception_1\\MyCustomException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T12:09:51.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Calculator.cs",
-              "RelativeDocumentMoniker": "30_Exception_1\\Calculator.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Calculator.cs",
-              "RelativeToolTip": "30_Exception_1\\Calculator.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAQwIUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:47:26.374Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Program.cs",
-              "RelativeDocumentMoniker": "30_Exception_1\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\30_Exception_1\\Program.cs",
-              "RelativeToolTip": "30_Exception_1\\Program.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAAAH4AAAAfAAAA",
+              "Title": "myCustomException.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\myCustomException.cs",
+              "RelativeDocumentMoniker": "31_CustomException\\myCustomException.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\myCustomException.cs",
+              "RelativeToolTip": "31_CustomException\\myCustomException.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:46:51.573Z",
+              "WhenOpened": "2024-09-05T12:50:32.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\Program.cs",
+              "RelativeDocumentMoniker": "31_CustomException\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\31_CustomException\\Program.cs",
+              "RelativeToolTip": "31_CustomException\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:50:12.22Z",
               "EditorCaption": ""
             }
           ]
