@@ -56,6 +56,7 @@ foreach (var value in values1)
     Console.Write($"{value}\t\t");
 }
 
+// find using index
 string name = genderlist[0];
 Console.WriteLine(name);
 
