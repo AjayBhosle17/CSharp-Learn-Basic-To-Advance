@@ -50,6 +50,8 @@ foreach(string item in genderlist)
     
 }
 
+// retrive values
+
 int[] values1 = (int[])Enum.GetValues(typeof(GenderInp));
 foreach (var value in values1)
 {
