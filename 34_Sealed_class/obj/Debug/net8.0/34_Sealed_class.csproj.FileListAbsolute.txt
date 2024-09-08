@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\bin\Debug\net8.0\34_Sealed_class.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\bin\Debug\net8.0\34_Sealed_class.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\bin\Debug\net8.0\34_Sealed_class.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\bin\Debug\net8.0\34_Sealed_class.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\bin\Debug\net8.0\34_Sealed_class.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\refint\34_Sealed_class.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\34_Sealed_class.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\34_Sealed_class\obj\Debug\net8.0\ref\34_Sealed_class.dll

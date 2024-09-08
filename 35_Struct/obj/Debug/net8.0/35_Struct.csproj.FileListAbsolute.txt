@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\bin\Debug\net8.0\35_Struct.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\bin\Debug\net8.0\35_Struct.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\bin\Debug\net8.0\35_Struct.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\bin\Debug\net8.0\35_Struct.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\bin\Debug\net8.0\35_Struct.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\refint\35_Struct.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\35_Struct.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\35_Struct\obj\Debug\net8.0\ref\35_Struct.dll

@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\bin\Debug\net8.0\36_Record.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\bin\Debug\net8.0\36_Record.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\bin\Debug\net8.0\36_Record.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\bin\Debug\net8.0\36_Record.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\bin\Debug\net8.0\36_Record.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\refint\36_Record.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\36_Record.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\36_Record\obj\Debug\net8.0\ref\36_Record.dll

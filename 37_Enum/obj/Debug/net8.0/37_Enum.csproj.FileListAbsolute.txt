@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\bin\Debug\net8.0\37_Enum.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\bin\Debug\net8.0\37_Enum.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\bin\Debug\net8.0\37_Enum.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\bin\Debug\net8.0\37_Enum.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\bin\Debug\net8.0\37_Enum.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\refint\37_Enum.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\37_Enum.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\37_Enum\obj\Debug\net8.0\ref\37_Enum.dll

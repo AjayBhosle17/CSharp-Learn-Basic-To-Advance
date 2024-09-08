@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("32_Var_Dynamic_Keyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e6e0c70877c57cfb1a56fe8969be4d52d063ea1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e84bfba307ff8ec2627e363f4a0ac2c4b5caa33c")]
 [assembly: System.Reflection.AssemblyProductAttribute("32_Var_Dynamic_Keyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("32_Var_Dynamic_Keyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
