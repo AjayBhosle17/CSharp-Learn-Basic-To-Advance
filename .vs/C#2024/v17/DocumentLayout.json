@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A203F478-175B-4217-9EC3-5E567267634C}|39_delegate\\39_delegate.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\39_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A203F478-175B-4217-9EC3-5E567267634C}|39_delegate\\39_delegate.csproj|solutionrelative:39_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1AB13DE-DB94-4F71-A677-28AB1A4ACA33}|39_Delegate_1\\39_Delegate_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\39_delegate_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AB13DE-DB94-4F71-A677-28AB1A4ACA33}|39_Delegate_1\\39_Delegate_1.csproj|solutionrelative:39_delegate_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AB13DE-DB94-4F71-A677-28AB1A4ACA33}|39_Delegate_1\\39_Delegate_1.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\39_delegate_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AB13DE-DB94-4F71-A677-28AB1A4ACA33}|39_Delegate_1\\39_Delegate_1.csproj|solutionrelative:39_delegate_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A203F478-175B-4217-9EC3-5E567267634C}|39_delegate\\39_delegate.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\39_delegate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A203F478-175B-4217-9EC3-5E567267634C}|39_delegate\\39_delegate.csproj|solutionrelative:39_delegate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A203F478-175B-4217-9EC3-5E567267634C}|39_delegate\\39_delegate.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\39_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A203F478-175B-4217-9EC3-5E567267634C}|39_delegate\\39_delegate.csproj|solutionrelative:39_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_Delegate_1\\Student.cs",
+              "RelativeDocumentMoniker": "39_Delegate_1\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_Delegate_1\\Student.cs",
+              "RelativeToolTip": "39_Delegate_1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:24:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_Delegate_1\\Program.cs",
+              "RelativeDocumentMoniker": "39_Delegate_1\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_Delegate_1\\Program.cs",
+              "RelativeToolTip": "39_Delegate_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:22:55.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_delegate\\Customer.cs",
               "RelativeDocumentMoniker": "39_delegate\\Customer.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_delegate\\Customer.cs",
               "RelativeToolTip": "39_delegate\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T04:01:35.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_delegate\\Program.cs",
               "RelativeDocumentMoniker": "39_delegate\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\39_delegate\\Program.cs",
               "RelativeToolTip": "39_delegate\\Program.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAUwGYAAAAdAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T04:01:10.192Z",
               "EditorCaption": ""

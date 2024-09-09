@@ -1,7 +1,7 @@
-﻿
+﻿/*
 
 #region Single Cast
-/*
+*//*
 Customer obj = new Customer();
 
 //obj.printA();
@@ -37,7 +37,7 @@ pd6();
 printDel pd7 = obj.printD;
 
 string str2 = pd7();
-Console.WriteLine(str2);*/
+Console.WriteLine(str2);*//*
 
 #endregion
 
@@ -94,6 +94,10 @@ foreach(Delegate d in delegates) {
 
 
 
+#endregion
+
+
+#region Anonyms
 
 Console.WriteLine("\nAnonyms");
 
@@ -106,16 +110,37 @@ printDelgate d1 = delegate ()
     Console.WriteLine("Anonyms Method Called");
 };
 
+d1();
+
 fullName d2 = delegate (string firstName, string lastName)
 {
     Console.WriteLine($"FullName: {firstName} {lastName}");
 
 };
+d2("Ajay", "Bhosle");
 
-d1();
-d2("Ajay","Bhosle");
+Addition d3 = delegate (int num1, int num2)
+{
 
+    return num1 + num2;
+};
+
+int sum = d3(20, 10);
+Console.WriteLine($"Sum is a: {sum}");
 
 #endregion
+
+*/
+
+#region Method as a Parameter
+
+
+Customer obj = new Customer();
+
+printDelgate pd = obj.printB;
+obj.printA(pd);
+
+#endregion
+
 
 

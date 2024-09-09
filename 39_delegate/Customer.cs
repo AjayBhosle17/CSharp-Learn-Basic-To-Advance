@@ -9,11 +9,17 @@
 public delegate void printDelgate();
 public delegate string printDel();
 public delegate void fullName(string s1 , string s2);
+
+public Delegate int Addition(int num1, int num2);
+
+
+
 public class Customer {
 
-    public void printA() {
+    public void printA(printDelgate del) {
 
         Console.WriteLine("PrintA () called");
+        del();
     }
     public void printB()
     {
