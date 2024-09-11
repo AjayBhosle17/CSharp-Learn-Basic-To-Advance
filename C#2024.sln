@@ -101,9 +101,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39_delegate", "39_delegate\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39_Delegate_1", "39_Delegate_1\39_Delegate_1.csproj", "{D1AB13DE-DB94-4F71-A677-28AB1A4ACA33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_delegate_03", "40_delegate_03\40_delegate_03.csproj", "{9AE6444C-11E1-4EAD-8021-9CE070EBBD72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40_delegate_03", "40_delegate_03\40_delegate_03.csproj", "{9AE6444C-11E1-4EAD-8021-9CE070EBBD72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_Delegate_2", "40_Delegate_2\40_Delegate_2.csproj", "{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40_Delegate_2", "40_Delegate_2\40_Delegate_2.csproj", "{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41_Generic_Delegate", "41_Generic_Delegate\41_Generic_Delegate.csproj", "{45D0236A-C820-40A7-A949-26867E3EA170}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +317,10 @@ Global
 		{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D0236A-C820-40A7-A949-26867E3EA170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D0236A-C820-40A7-A949-26867E3EA170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D0236A-C820-40A7-A949-26867E3EA170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D0236A-C820-40A7-A949-26867E3EA170}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

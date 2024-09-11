@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\bin\Debug\net8.0\41_Generic_Delegate.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\bin\Debug\net8.0\41_Generic_Delegate.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\bin\Debug\net8.0\41_Generic_Delegate.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\bin\Debug\net8.0\41_Generic_Delegate.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\bin\Debug\net8.0\41_Generic_Delegate.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\refint\41_Generic_Delegate.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\41_Generic_Delegate.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\41_Generic_Delegate\obj\Debug\net8.0\ref\41_Generic_Delegate.dll

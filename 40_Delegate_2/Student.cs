@@ -5,6 +5,18 @@
     public string gender { get; set; }
     public DateTime dateOfBirth { get; set; }
     public bool ismeritListed { get; set; }
+
+    public Student(String Name, int no) {
+
+        Console.WriteLine($"Name : {Name} no : {no}");
+    }
+
+    public Student():this("Ajay",0) {
+   
+        Console.WriteLine("Default_Constructor");
+
+    }
+    
 }
 
 
