@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\bin\Debug\net8.0\39_delegate.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\bin\Debug\net8.0\39_delegate.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\bin\Debug\net8.0\39_delegate.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\bin\Debug\net8.0\39_delegate.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\bin\Debug\net8.0\39_delegate.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\refint\39_delegate.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\39_delegate.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\39_delegate\obj\Debug\net8.0\ref\39_delegate.dll
