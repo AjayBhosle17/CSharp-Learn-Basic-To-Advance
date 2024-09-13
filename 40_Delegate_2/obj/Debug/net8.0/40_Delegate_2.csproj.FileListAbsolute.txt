@@ -1,0 +1,12 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\bin\Debug\net8.0\40_Delegate_2.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\bin\Debug\net8.0\40_Delegate_2.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\bin\Debug\net8.0\40_Delegate_2.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\refint\40_Delegate_2.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\40_Delegate_2.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\40_Delegate_2\obj\Debug\net8.0\ref\40_Delegate_2.dll

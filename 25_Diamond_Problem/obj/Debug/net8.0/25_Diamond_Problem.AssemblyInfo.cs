@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("25_Diamond_Problem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada34e754212b190f7cf5db4aa34866e8ea161d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae5e105d718b86f0c06f59d4d84d0d50132ecab3")]
 [assembly: System.Reflection.AssemblyProductAttribute("25_Diamond_Problem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("25_Diamond_Problem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
