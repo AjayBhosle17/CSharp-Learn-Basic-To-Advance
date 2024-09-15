@@ -22,6 +22,11 @@ public class Child:Parent{
 
         Console.WriteLine("PrintB () Called");
     }
+    public void printC() {
+
+        Console.WriteLine("PrintC () Called");
+    }
+	
 
 }
 
