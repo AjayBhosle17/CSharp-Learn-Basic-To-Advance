@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7678195B-DA1A-4971-9D93-2C4C235AA3FF}|41_Const_readOnly_Keyword\\41_Const_readOnly_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\41_const_readonly_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7678195B-DA1A-4971-9D93-2C4C235AA3FF}|41_Const_readOnly_Keyword\\41_Const_readOnly_Keyword.csproj|solutionrelative:41_const_readonly_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\42_is_as_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|solutionrelative:42_is_as_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7678195B-DA1A-4971-9D93-2C4C235AA3FF}|41_Const_readOnly_Keyword\\41_Const_readOnly_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\41_const_readonly_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7678195B-DA1A-4971-9D93-2C4C235AA3FF}|41_Const_readOnly_Keyword\\41_Const_readOnly_Keyword.csproj|solutionrelative:41_const_readonly_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D0236A-C820-40A7-A949-26867E3EA170}|41_Generic_Delegate\\41_Generic_Delegate.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\41_generic_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0236A-C820-40A7-A949-26867E3EA170}|41_Generic_Delegate\\41_Generic_Delegate.csproj|solutionrelative:41_generic_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D0236A-C820-40A7-A949-26867E3EA170}|41_Generic_Delegate\\41_Generic_Delegate.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\41_generic_delegate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0236A-C820-40A7-A949-26867E3EA170}|41_Generic_Delegate\\41_Generic_Delegate.csproj|solutionrelative:41_generic_delegate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE6444C-11E1-4EAD-8021-9CE070EBBD72}|40_delegate_03\\40_delegate_03.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\40_delegate_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE6444C-11E1-4EAD-8021-9CE070EBBD72}|40_delegate_03\\40_delegate_03.csproj|solutionrelative:40_delegate_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}|40_Delegate_2\\40_Delegate_2.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\40_delegate_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}|40_Delegate_2\\40_Delegate_2.csproj|solutionrelative:40_delegate_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}|40_Delegate_2\\40_Delegate_2.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\40_delegate_2\\institute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B23C7CDA-7FEE-46CA-9F72-5C6DD4E41526}|40_Delegate_2\\40_Delegate_2.csproj|solutionrelative:40_delegate_2\\institute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\42_is_as_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|solutionrelative:42_is_as_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,89 +28,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Const_readOnly_Keyword\\Student.cs",
-              "RelativeDocumentMoniker": "41_Const_readOnly_Keyword\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Const_readOnly_Keyword\\Student.cs",
-              "RelativeToolTip": "41_Const_readOnly_Keyword\\Student.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAPAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Student.cs",
+              "RelativeDocumentMoniker": "42_Is_as_Keyword\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Student.cs",
+              "RelativeToolTip": "42_Is_as_Keyword\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:14:36.433Z",
+              "WhenOpened": "2024-09-14T19:37:48.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Const_readOnly_Keyword\\Program.cs",
-              "RelativeDocumentMoniker": "41_Const_readOnly_Keyword\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Const_readOnly_Keyword\\Program.cs",
-              "RelativeToolTip": "41_Const_readOnly_Keyword\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "42_Is_as_Keyword\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Program.cs",
+              "RelativeToolTip": "42_Is_as_Keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:13:55.178Z",
+              "WhenOpened": "2024-09-14T19:35:38.983Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Generic_Delegate\\Student.cs",
-              "RelativeDocumentMoniker": "41_Generic_Delegate\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Generic_Delegate\\Student.cs",
-              "RelativeToolTip": "41_Generic_Delegate\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:04:44.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Generic_Delegate\\Program.cs",
-              "RelativeDocumentMoniker": "41_Generic_Delegate\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\41_Generic_Delegate\\Program.cs",
-              "RelativeToolTip": "41_Generic_Delegate\\Program.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAUwJEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:57:14.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\40_delegate_03\\Program.cs",
-              "RelativeDocumentMoniker": "40_delegate_03\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\40_delegate_03\\Program.cs",
-              "RelativeToolTip": "40_delegate_03\\Program.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T12:32:32.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\40_Delegate_2\\Student.cs",
-              "RelativeDocumentMoniker": "40_Delegate_2\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\40_Delegate_2\\Student.cs",
-              "RelativeToolTip": "40_Delegate_2\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T12:31:28.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Institute.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\40_Delegate_2\\Institute.cs",
-              "RelativeDocumentMoniker": "40_Delegate_2\\Institute.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\40_Delegate_2\\Institute.cs",
-              "RelativeToolTip": "40_Delegate_2\\Institute.cs",
-              "ViewState": "AQIAAJwAAAAAAAAAAAAcwJYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:29:31.737Z"
             }
           ]
         }
