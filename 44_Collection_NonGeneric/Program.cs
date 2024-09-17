@@ -216,4 +216,18 @@ arrayList.Clear();
 
 Console.WriteLine("Clear List\n");
 
+
+arrayList.Add("Ajay");
+arrayList.Add("Vijay");
+arrayList.Add("Om");
+k = 0;
+
+foreach (var i in arrayList)
+{
+
+    Console.WriteLine($"index: {k++}: {i}");
+
+}
+
+
 #endregion
