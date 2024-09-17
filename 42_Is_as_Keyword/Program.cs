@@ -45,4 +45,15 @@ else {
 }
 
 
-#endregion
+object str = "Ajay";
+
+string str1 = str as string;
+
+Console.WriteLine(str1);
+
+if (str is string a) {
+
+    Console.WriteLine(a);
+}
+
+#endregion 

@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\bin\Debug\net8.0\43_Partial_Keyword.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\bin\Debug\net8.0\43_Partial_Keyword.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\bin\Debug\net8.0\43_Partial_Keyword.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\bin\Debug\net8.0\43_Partial_Keyword.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\bin\Debug\net8.0\43_Partial_Keyword.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\refint\43_Partial_Keyword.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\43_Partial_Keyword.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\43_Partial_Keyword\obj\Debug\net8.0\ref\43_Partial_Keyword.dll

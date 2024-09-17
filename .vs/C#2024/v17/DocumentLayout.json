@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\42_is_as_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|solutionrelative:42_is_as_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2212A86D-484C-451E-A004-802543B14C17}|44_Collection_NonGeneric\\44_Collection_NonGeneric.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\44_collection_nongeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212A86D-484C-451E-A004-802543B14C17}|44_Collection_NonGeneric\\44_Collection_NonGeneric.csproj|solutionrelative:44_collection_nongeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\42_is_as_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714679E9-19A4-4571-8F0D-D700B207B1D9}|42_Is_as_Keyword\\42_Is_as_Keyword.csproj|solutionrelative:42_is_as_keyword\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF3FA015-F0EE-4479-B05E-6565B99E694E}|43_Partial_Keyword\\43_Partial_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\43_partial_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3FA015-F0EE-4479-B05E-6565B99E694E}|43_Partial_Keyword\\43_Partial_Keyword.csproj|solutionrelative:43_partial_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3FA015-F0EE-4479-B05E-6565B99E694E}|43_Partial_Keyword\\43_Partial_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\43_partial_keyword\\customer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3FA015-F0EE-4479-B05E-6565B99E694E}|43_Partial_Keyword\\43_Partial_Keyword.csproj|solutionrelative:43_partial_keyword\\customer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3FA015-F0EE-4479-B05E-6565B99E694E}|43_Partial_Keyword\\43_Partial_Keyword.csproj|d:\\coding2\\ajay v#\\c#\\csharp-learn-basic-to-advance\\43_partial_keyword\\customer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3FA015-F0EE-4479-B05E-6565B99E694E}|43_Partial_Keyword\\43_Partial_Keyword.csproj|solutionrelative:43_partial_keyword\\customer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Student.cs",
-              "RelativeDocumentMoniker": "42_Is_as_Keyword\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Student.cs",
-              "RelativeToolTip": "42_Is_as_Keyword\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\44_Collection_NonGeneric\\Program.cs",
+              "RelativeDocumentMoniker": "44_Collection_NonGeneric\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\44_Collection_NonGeneric\\Program.cs",
+              "RelativeToolTip": "44_Collection_NonGeneric\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:37:48.615Z",
+              "WhenOpened": "2024-09-17T08:05:59.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Program.cs",
-              "RelativeDocumentMoniker": "42_Is_as_Keyword\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\42_Is_as_Keyword\\Program.cs",
-              "RelativeToolTip": "42_Is_as_Keyword\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "DocumentIndex": 3,
+              "Title": "Customer2.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\43_Partial_Keyword\\Customer2.cs",
+              "RelativeDocumentMoniker": "43_Partial_Keyword\\Customer2.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\43_Partial_Keyword\\Customer2.cs",
+              "RelativeToolTip": "43_Partial_Keyword\\Customer2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:35:38.983Z",
+              "WhenOpened": "2024-09-15T19:35:49.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer1.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\43_Partial_Keyword\\Customer1.cs",
+              "RelativeDocumentMoniker": "43_Partial_Keyword\\Customer1.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\43_Partial_Keyword\\Customer1.cs",
+              "RelativeToolTip": "43_Partial_Keyword\\Customer1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:35:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\43_Partial_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "43_Partial_Keyword\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\43_Partial_Keyword\\Program.cs",
+              "RelativeToolTip": "43_Partial_Keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:31:30.803Z",
               "EditorCaption": ""
             }
           ]

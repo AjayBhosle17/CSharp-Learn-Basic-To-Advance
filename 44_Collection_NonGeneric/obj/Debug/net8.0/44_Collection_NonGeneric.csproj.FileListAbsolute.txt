@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\bin\Debug\net8.0\44_Collection_NonGeneric.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\bin\Debug\net8.0\44_Collection_NonGeneric.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\bin\Debug\net8.0\44_Collection_NonGeneric.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\bin\Debug\net8.0\44_Collection_NonGeneric.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\bin\Debug\net8.0\44_Collection_NonGeneric.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\refint\44_Collection_NonGeneric.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\44_Collection_NonGeneric.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\44_Collection_NonGeneric\obj\Debug\net8.0\ref\44_Collection_NonGeneric.dll
