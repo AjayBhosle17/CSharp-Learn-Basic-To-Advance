@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\bin\Debug\net8.0\45_Generic_Collection.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\bin\Debug\net8.0\45_Generic_Collection.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\bin\Debug\net8.0\45_Generic_Collection.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\bin\Debug\net8.0\45_Generic_Collection.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\bin\Debug\net8.0\45_Generic_Collection.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\refint\45_Generic_Collection.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\45_Generic_Collection.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\45_Generic_Collection\obj\Debug\net8.0\ref\45_Generic_Collection.dll
