@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\bin\Debug\net8.0\46_Extension_Method.exe
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\bin\Debug\net8.0\46_Extension_Method.deps.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\bin\Debug\net8.0\46_Extension_Method.runtimeconfig.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\bin\Debug\net8.0\46_Extension_Method.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\bin\Debug\net8.0\46_Extension_Method.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.sourcelink.json
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\refint\46_Extension_Method.dll
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.pdb
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\46_Extension_Method.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C#\CSharp-Learn-Basic-To-Advance\46_Extension_Method\obj\Debug\net8.0\ref\46_Extension_Method.dll
