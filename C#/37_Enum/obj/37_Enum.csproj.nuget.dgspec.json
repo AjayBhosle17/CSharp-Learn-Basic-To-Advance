@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\37_Enum\\37_Enum.csproj": {}
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\37_Enum\\37_Enum.csproj": {}
   },
   "projects": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\37_Enum\\37_Enum.csproj": {
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\37_Enum\\37_Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\37_Enum\\37_Enum.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\37_Enum\\37_Enum.csproj",
         "projectName": "37_Enum",
-        "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\37_Enum\\37_Enum.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\37_Enum\\37_Enum.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\37_Enum\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\37_Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

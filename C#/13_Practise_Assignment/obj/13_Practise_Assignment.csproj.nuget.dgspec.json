@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\13_Practise_Assignment.csproj": {}
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Practise_Assignment\\13_Practise_Assignment.csproj": {}
   },
   "projects": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\13_Practise_Assignment.csproj": {
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Practise_Assignment\\13_Practise_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\13_Practise_Assignment.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Practise_Assignment\\13_Practise_Assignment.csproj",
         "projectName": "13_Practise_Assignment",
-        "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\13_Practise_Assignment.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Practise_Assignment\\13_Practise_Assignment.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\13_Practise_Assignment\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Practise_Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

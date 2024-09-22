@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\5_Operators\\5_Operators.csproj": {}
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\5_Operators\\5_Operators.csproj": {}
   },
   "projects": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\5_Operators\\5_Operators.csproj": {
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\5_Operators\\5_Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\5_Operators\\5_Operators.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\5_Operators\\5_Operators.csproj",
         "projectName": "5_Operators",
-        "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\5_Operators\\5_Operators.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\5_Operators\\5_Operators.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\5_Operators\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\5_Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

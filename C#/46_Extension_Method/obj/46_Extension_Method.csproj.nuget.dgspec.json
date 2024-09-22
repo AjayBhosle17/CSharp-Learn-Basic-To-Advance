@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\46_Extension_Method\\46_Extension_Method.csproj": {}
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\46_Extension_Method\\46_Extension_Method.csproj": {}
   },
   "projects": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\46_Extension_Method\\46_Extension_Method.csproj": {
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\46_Extension_Method\\46_Extension_Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\46_Extension_Method\\46_Extension_Method.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\46_Extension_Method\\46_Extension_Method.csproj",
         "projectName": "46_Extension_Method",
-        "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\46_Extension_Method\\46_Extension_Method.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\46_Extension_Method\\46_Extension_Method.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\46_Extension_Method\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\46_Extension_Method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

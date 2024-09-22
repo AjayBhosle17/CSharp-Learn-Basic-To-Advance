@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Math_Library\\22_Math_Library.csproj": {}
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\22_Math_Library.csproj": {}
   },
   "projects": {
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Calculator_Library\\22_Calculator_Library.csproj": {
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\22_Calculator_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Calculator_Library\\22_Calculator_Library.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\22_Calculator_Library.csproj",
         "projectName": "22_Calculator_Library",
-        "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Calculator_Library\\22_Calculator_Library.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\22_Calculator_Library.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Calculator_Library\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Math_Library\\22_Math_Library.csproj": {
+    "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\22_Math_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Math_Library\\22_Math_Library.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\22_Math_Library.csproj",
         "projectName": "22_Math_Library",
-        "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Math_Library\\22_Math_Library.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\22_Math_Library.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Math_Library\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Calculator_Library\\22_Calculator_Library.csproj": {
-                "projectPath": "D:\\Coding2\\Ajay V#\\C#\\CSharp-Learn-Basic-To-Advance\\22_Calculator_Library\\22_Calculator_Library.csproj"
+              "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\22_Calculator_Library.csproj": {
+                "projectPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\22_Calculator_Library.csproj"
               }
             }
           }

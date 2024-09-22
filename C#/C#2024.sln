@@ -119,7 +119,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45_Generic_Collection", "45
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "46_Extension_Method", "46_Extension_Method\46_Extension_Method.csproj", "{1C63624E-98A8-41AD-A9D6-8C1F43DFFC7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_Yield_Keyword", "47_Yield_Keyword\47_Yield_Keyword.csproj", "{1AEA21D9-E8B8-4BD6-A2F1-9C0F66CEF383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "47_Yield_Keyword", "47_Yield_Keyword\47_Yield_Keyword.csproj", "{1AEA21D9-E8B8-4BD6-A2F1-9C0F66CEF383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{35F79D1F-002B-4BFD-912E-F68852D1F1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Why_LINQ", "1_Why_LINQ\1_Why_LINQ.csproj", "{9C84E076-5CF0-4604-AC75-A0B48BB3EABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,9 +367,16 @@ Global
 		{1AEA21D9-E8B8-4BD6-A2F1-9C0F66CEF383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AEA21D9-E8B8-4BD6-A2F1-9C0F66CEF383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AEA21D9-E8B8-4BD6-A2F1-9C0F66CEF383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C84E076-5CF0-4604-AC75-A0B48BB3EABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C84E076-5CF0-4604-AC75-A0B48BB3EABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C84E076-5CF0-4604-AC75-A0B48BB3EABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C84E076-5CF0-4604-AC75-A0B48BB3EABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C84E076-5CF0-4604-AC75-A0B48BB3EABD} = {35F79D1F-002B-4BFD-912E-F68852D1F1FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A26743C9-36FA-4A59-B1B3-91300F183471}

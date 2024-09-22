@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\bin\Debug\net8.0\1_Why_LINQ.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\bin\Debug\net8.0\1_Why_LINQ.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\bin\Debug\net8.0\1_Why_LINQ.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\bin\Debug\net8.0\1_Why_LINQ.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\bin\Debug\net8.0\1_Why_LINQ.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\refint\1_Why_LINQ.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\1_Why_LINQ.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\1_Why_LINQ\obj\Debug\net8.0\ref\1_Why_LINQ.dll
