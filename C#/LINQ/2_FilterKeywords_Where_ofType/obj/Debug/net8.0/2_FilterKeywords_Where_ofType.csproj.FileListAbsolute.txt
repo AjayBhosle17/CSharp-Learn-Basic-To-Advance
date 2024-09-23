@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\bin\Debug\net8.0\2_FilterKeywords_Where_ofType.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\bin\Debug\net8.0\2_FilterKeywords_Where_ofType.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\bin\Debug\net8.0\2_FilterKeywords_Where_ofType.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\bin\Debug\net8.0\2_FilterKeywords_Where_ofType.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\bin\Debug\net8.0\2_FilterKeywords_Where_ofType.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\refint\2_FilterKeywords_Where_ofType.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\2_FilterKeywords_Where_ofType.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\2_FilterKeywords_Where_ofType\obj\Debug\net8.0\ref\2_FilterKeywords_Where_ofType.dll
