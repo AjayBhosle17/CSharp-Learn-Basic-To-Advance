@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\bin\Debug\net8.0\6_Aggregation_Operators.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\bin\Debug\net8.0\6_Aggregation_Operators.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\bin\Debug\net8.0\6_Aggregation_Operators.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\bin\Debug\net8.0\6_Aggregation_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\bin\Debug\net8.0\6_Aggregation_Operators.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\refint\6_Aggregation_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\6_Aggregation_Operators.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\6_Aggregation_Operators\obj\Debug\net8.0\ref\6_Aggregation_Operators.dll

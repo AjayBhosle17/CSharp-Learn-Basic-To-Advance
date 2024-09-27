@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\bin\Debug\net8.0\5_Select_Operator.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\bin\Debug\net8.0\5_Select_Operator.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\bin\Debug\net8.0\5_Select_Operator.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\bin\Debug\net8.0\5_Select_Operator.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\bin\Debug\net8.0\5_Select_Operator.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\refint\5_Select_Operator.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\5_Select_Operator.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\5_Select_Operator\obj\Debug\net8.0\ref\5_Select_Operator.dll

@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCD655E8-D82F-40E3-A66B-D94B19843C8B}|3_Sorting_Operators\\3_Sorting_Operators.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\3_sorting_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD655E8-D82F-40E3-A66B-D94B19843C8B}|3_Sorting_Operators\\3_Sorting_Operators.csproj|solutionrelative:3_sorting_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCD655E8-D82F-40E3-A66B-D94B19843C8B}|3_Sorting_Operators\\3_Sorting_Operators.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\3_sorting_operators\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD655E8-D82F-40E3-A66B-D94B19843C8B}|3_Sorting_Operators\\3_Sorting_Operators.csproj|solutionrelative:3_sorting_operators\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCD655E8-D82F-40E3-A66B-D94B19843C8B}|3_Sorting_Operators\\3_Sorting_Operators.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\3_sorting_operators\\studentcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD655E8-D82F-40E3-A66B-D94B19843C8B}|3_Sorting_Operators\\3_Sorting_Operators.csproj|solutionrelative:3_sorting_operators\\studentcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAEFD579-9837-4EBD-B48D-37FA8A31E288}|6_Aggregation_Operators\\6_Aggregation_Operators.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\6_aggregation_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEFD579-9837-4EBD-B48D-37FA8A31E288}|6_Aggregation_Operators\\6_Aggregation_Operators.csproj|solutionrelative:6_aggregation_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentComparer.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_Sorting_Operators\\StudentComparer.cs",
-              "RelativeDocumentMoniker": "3_Sorting_Operators\\StudentComparer.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_Sorting_Operators\\StudentComparer.cs",
-              "RelativeToolTip": "3_Sorting_Operators\\StudentComparer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T04:30:59.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_Sorting_Operators\\Student.cs",
-              "RelativeDocumentMoniker": "3_Sorting_Operators\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_Sorting_Operators\\Student.cs",
-              "RelativeToolTip": "3_Sorting_Operators\\Student.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:58:57.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_Sorting_Operators\\Program.cs",
-              "RelativeDocumentMoniker": "3_Sorting_Operators\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_Sorting_Operators\\Program.cs",
-              "RelativeToolTip": "3_Sorting_Operators\\Program.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAiwKwAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\6_Aggregation_Operators\\Program.cs",
+              "RelativeDocumentMoniker": "6_Aggregation_Operators\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\6_Aggregation_Operators\\Program.cs",
+              "RelativeToolTip": "6_Aggregation_Operators\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:20:13.052Z",
+              "WhenOpened": "2024-09-27T06:18:47.087Z",
               "EditorCaption": ""
             }
           ]

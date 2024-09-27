@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\bin\Debug\net8.0\4_Grouping_Operators.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\bin\Debug\net8.0\4_Grouping_Operators.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\bin\Debug\net8.0\4_Grouping_Operators.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\bin\Debug\net8.0\4_Grouping_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\bin\Debug\net8.0\4_Grouping_Operators.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\refint\4_Grouping_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\4_Grouping_Operators.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\4_Grouping_Operators\obj\Debug\net8.0\ref\4_Grouping_Operators.dll
