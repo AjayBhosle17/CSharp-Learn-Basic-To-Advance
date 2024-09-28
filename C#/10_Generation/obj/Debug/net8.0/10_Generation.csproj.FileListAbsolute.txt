@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\bin\Debug\net8.0\10_Generation.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\bin\Debug\net8.0\10_Generation.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\bin\Debug\net8.0\10_Generation.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\bin\Debug\net8.0\10_Generation.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\bin\Debug\net8.0\10_Generation.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\refint\10_Generation.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\10_Generation.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Generation\obj\Debug\net8.0\ref\10_Generation.dll

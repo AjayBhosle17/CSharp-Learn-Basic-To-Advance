@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\bin\Debug\net8.0\8_Elements_Operator.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\bin\Debug\net8.0\8_Elements_Operator.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\bin\Debug\net8.0\8_Elements_Operator.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\bin\Debug\net8.0\8_Elements_Operator.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\bin\Debug\net8.0\8_Elements_Operator.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\refint\8_Elements_Operator.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\8_Elements_Operator.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\8_Elements_Operator\obj\Debug\net8.0\ref\8_Elements_Operator.dll

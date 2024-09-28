@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\bin\Debug\net8.0\10_Partion.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\bin\Debug\net8.0\10_Partion.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\bin\Debug\net8.0\10_Partion.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\bin\Debug\net8.0\10_Partion.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\bin\Debug\net8.0\10_Partion.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\refint\10_Partion.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\10_Partion.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\10_Partion\obj\Debug\net8.0\ref\10_Partion.dll

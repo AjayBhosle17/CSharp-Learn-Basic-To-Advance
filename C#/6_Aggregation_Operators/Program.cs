@@ -115,3 +115,5 @@ min=ls.Where(num => num % 2 == 0).Min();
 Console.WriteLine($"Even Minimum: {min}");
 
 #endregion
+
+

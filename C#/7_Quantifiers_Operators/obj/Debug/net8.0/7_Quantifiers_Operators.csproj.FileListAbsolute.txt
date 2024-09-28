@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\bin\Debug\net8.0\7_Quantifiers_Operators.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\bin\Debug\net8.0\7_Quantifiers_Operators.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\bin\Debug\net8.0\7_Quantifiers_Operators.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\bin\Debug\net8.0\7_Quantifiers_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\bin\Debug\net8.0\7_Quantifiers_Operators.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\refint\7_Quantifiers_Operators.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\7_Quantifiers_Operators.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\7_Quantifiers_Operators\obj\Debug\net8.0\ref\7_Quantifiers_Operators.dll
