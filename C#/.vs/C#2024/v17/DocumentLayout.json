@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC91564B-2DAF-48F4-85D6-94EDE3C808F9}|10_Generation\\10_Generation.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\10_generation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC91564B-2DAF-48F4-85D6-94EDE3C808F9}|10_Generation\\10_Generation.csproj|solutionrelative:10_generation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443C718B-7963-4E3A-8457-94D5199CACC6}|12_Conversion\\12_Conversion.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\12_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443C718B-7963-4E3A-8457-94D5199CACC6}|12_Conversion\\12_Conversion.csproj|solutionrelative:12_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443C718B-7963-4E3A-8457-94D5199CACC6}|12_Conversion\\12_Conversion.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\12_conversion\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443C718B-7963-4E3A-8457-94D5199CACC6}|12_Conversion\\12_Conversion.csproj|solutionrelative:12_conversion\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6985128B-8395-495C-8A9E-8AAC199C79EF}|10_Partion\\10_Partion.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\10_partion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6985128B-8395-495C-8A9E-8AAC199C79EF}|10_Partion\\10_Partion.csproj|solutionrelative:10_partion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9112012A-C009-4030-B67E-D82A411CC3DC}|8_Set_Operators\\8_Set_Operators.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\8_set_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9112012A-C009-4030-B67E-D82A411CC3DC}|8_Set_Operators\\8_Set_Operators.csproj|solutionrelative:8_set_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC91564B-2DAF-48F4-85D6-94EDE3C808F9}|10_Generation\\10_Generation.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\10_generation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC91564B-2DAF-48F4-85D6-94EDE3C808F9}|10_Generation\\10_Generation.csproj|solutionrelative:10_generation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0CC9C95-198E-44B3-A9A5-27333B9583EC}|8_Elements_Operator\\8_Elements_Operator.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\8_elements_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0CC9C95-198E-44B3-A9A5-27333B9583EC}|8_Elements_Operator\\8_Elements_Operator.csproj|solutionrelative:8_elements_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9112012A-C009-4030-B67E-D82A411CC3DC}|8_Set_Operators\\9_Set_Operators.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\8_set_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9112012A-C009-4030-B67E-D82A411CC3DC}|8_Set_Operators\\9_Set_Operators.csproj|solutionrelative:8_set_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +42,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\12_Conversion\\Student.cs",
+              "RelativeDocumentMoniker": "12_Conversion\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\12_Conversion\\Student.cs",
+              "RelativeToolTip": "12_Conversion\\Student.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:33:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Generation\\Program.cs",
-              "RelativeDocumentMoniker": "10_Generation\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Generation\\Program.cs",
-              "RelativeToolTip": "10_Generation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\12_Conversion\\Program.cs",
+              "RelativeDocumentMoniker": "12_Conversion\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\12_Conversion\\Program.cs",
+              "RelativeToolTip": "12_Conversion\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T10:41:26.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Partion\\Program.cs",
-              "RelativeDocumentMoniker": "10_Partion\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Partion\\Program.cs",
-              "RelativeToolTip": "10_Partion\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T09:24:53.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\8_Set_Operators\\Program.cs",
-              "RelativeDocumentMoniker": "8_Set_Operators\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\8_Set_Operators\\Program.cs",
-              "RelativeToolTip": "8_Set_Operators\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T07:00:15.1Z",
+              "WhenOpened": "2024-09-30T05:15:28.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Generation\\Program.cs",
+              "RelativeDocumentMoniker": "10_Generation\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Generation\\Program.cs",
+              "RelativeToolTip": "10_Generation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:41:26.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Partion\\Program.cs",
+              "RelativeDocumentMoniker": "10_Partion\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\10_Partion\\Program.cs",
+              "RelativeToolTip": "10_Partion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:24:53.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\8_Set_Operators\\Program.cs",
+              "RelativeDocumentMoniker": "8_Set_Operators\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\8_Set_Operators\\Program.cs",
+              "RelativeToolTip": "8_Set_Operators\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAIBJwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:00:15.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\8_Elements_Operator\\Program.cs",
               "RelativeDocumentMoniker": "8_Elements_Operator\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\8_Elements_Operator\\Program.cs",
               "RelativeToolTip": "8_Elements_Operator\\Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAIBJwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T10:24:03.893Z",
               "EditorCaption": ""

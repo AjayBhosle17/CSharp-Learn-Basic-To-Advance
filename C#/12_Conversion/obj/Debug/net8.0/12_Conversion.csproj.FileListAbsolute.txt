@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\bin\Debug\net8.0\12_Conversion.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\bin\Debug\net8.0\12_Conversion.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\bin\Debug\net8.0\12_Conversion.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\bin\Debug\net8.0\12_Conversion.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\bin\Debug\net8.0\12_Conversion.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\refint\12_Conversion.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\12_Conversion.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\12_Conversion\obj\Debug\net8.0\ref\12_Conversion.dll
