@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\bin\Debug\net8.0\delegate_practise.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\bin\Debug\net8.0\delegate_practise.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\bin\Debug\net8.0\delegate_practise.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\bin\Debug\net8.0\delegate_practise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\bin\Debug\net8.0\delegate_practise.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\refint\delegate_practise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\delegate_practise.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\delegate_practise\obj\Debug\net8.0\ref\delegate_practise.dll

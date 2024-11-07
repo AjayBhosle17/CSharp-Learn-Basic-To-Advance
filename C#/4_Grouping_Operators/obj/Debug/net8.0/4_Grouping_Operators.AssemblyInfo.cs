@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_Grouping_Operators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18f4d7d94f9aec10e6e6f1c8fbd37aec697613ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2543897b84849d2dcfa074326703c5691721c3ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_Grouping_Operators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_Grouping_Operators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

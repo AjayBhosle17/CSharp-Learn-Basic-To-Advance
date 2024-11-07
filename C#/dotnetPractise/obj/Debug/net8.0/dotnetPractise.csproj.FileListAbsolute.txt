@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\bin\Debug\net8.0\dotnetPractise.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\bin\Debug\net8.0\dotnetPractise.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\bin\Debug\net8.0\dotnetPractise.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\bin\Debug\net8.0\dotnetPractise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\bin\Debug\net8.0\dotnetPractise.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\refint\dotnetPractise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\dotnetPractise.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetPractise\obj\Debug\net8.0\ref\dotnetPractise.dll

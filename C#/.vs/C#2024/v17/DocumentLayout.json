@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\13_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|solutionrelative:13_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetpractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|solutionrelative:dotnetpractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\13_join\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|solutionrelative:13_join\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{650F29D0-7F59-459D-A3D3-71400028E06B}|2_DataTypes\\2_DataTypes.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\2_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650F29D0-7F59-459D-A3D3-71400028E06B}|2_DataTypes\\2_DataTypes.csproj|solutionrelative:2_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADB3BA-134A-4A6C-A237-F1B858F52123}|3_StringFunction\\3_StringFunction.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\3_stringfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADB3BA-134A-4A6C-A237-F1B858F52123}|3_StringFunction\\3_StringFunction.csproj|solutionrelative:3_stringfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0243A7-9146-4762-B8A6-A9EE88E2EF99}|delegate_practise\\delegate_practise.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\delegate_practise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0243A7-9146-4762-B8A6-A9EE88E2EF99}|delegate_practise\\delegate_practise.csproj|solutionrelative:delegate_practise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\13_join\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|solutionrelative:13_join\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\13_join\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45555F10-EB54-498A-8786-D0B285452AD7}|13_Join\\13_Join.csproj|solutionrelative:13_join\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,71 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_StringFunction\\Program.cs",
+              "RelativeDocumentMoniker": "3_StringFunction\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\3_StringFunction\\Program.cs",
+              "RelativeToolTip": "3_StringFunction\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:22:04.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\2_DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "2_DataTypes\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\2_DataTypes\\Program.cs",
+              "RelativeToolTip": "2_DataTypes\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:58:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\Program.cs",
+              "RelativeDocumentMoniker": "dotnetPractise\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\Program.cs",
+              "RelativeToolTip": "dotnetPractise\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:54:25.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\delegate_practise\\Student.cs",
+              "RelativeDocumentMoniker": "delegate_practise\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\delegate_practise\\Student.cs",
+              "RelativeToolTip": "delegate_practise\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:52:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Course.cs",
               "RelativeDocumentMoniker": "13_Join\\Course.cs",
@@ -47,43 +107,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T10:40:54.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Trainer.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Trainer.cs",
-              "RelativeDocumentMoniker": "13_Join\\Trainer.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Trainer.cs",
-              "RelativeToolTip": "13_Join\\Trainer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:27:41.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Student.cs",
-              "RelativeDocumentMoniker": "13_Join\\Student.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Student.cs",
-              "RelativeToolTip": "13_Join\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:27:31.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Program.cs",
-              "RelativeDocumentMoniker": "13_Join\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\13_Join\\Program.cs",
-              "RelativeToolTip": "13_Join\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcBAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:24:37.153Z",
-              "EditorCaption": ""
             }
           ]
         }
