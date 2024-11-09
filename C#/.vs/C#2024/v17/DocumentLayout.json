@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|solutionrelative:dotnetpractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBEA667-8431-4C54-87D1-6EAD9E98A440}|4_Date_Time\\4_Date_Time.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\4_date_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBEA667-8431-4C54-87D1-6EAD9E98A440}|4_Date_Time\\4_Date_Time.csproj|solutionrelative:4_date_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|d:\\coding2\\ajay v#\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetpractise\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|solutionrelative:dotnetpractise\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\4_Date_Time\\Program.cs",
-              "RelativeDocumentMoniker": "4_Date_Time\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\4_Date_Time\\Program.cs",
-              "RelativeToolTip": "4_Date_Time\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Title": "temp.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\temp.cs",
+              "RelativeDocumentMoniker": "dotnetPractise\\temp.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\temp.cs",
+              "RelativeToolTip": "dotnetPractise\\temp.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T08:28:09.161Z",
+              "WhenOpened": "2024-11-09T06:44:44.175Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "dotnetPractise\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\Program.cs",
               "RelativeToolTip": "dotnetPractise\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAcwEsAAAABAAAA",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T10:54:25.039Z",
               "EditorCaption": ""
