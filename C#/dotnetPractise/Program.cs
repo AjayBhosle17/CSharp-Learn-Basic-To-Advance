@@ -143,5 +143,24 @@ temp.gun();*/
 
 
 /*Constructor*/
+/*
+Student obj = new Student("Ajay","Bhosle");
+Student obj1 = new Student(obj);
+obj1.Details();*/
 
-Student obj = new Student();
+/*Student obj = new Student("Ajay","Bhosle");
+obj.getDetails();
+Student obj2 = obj;
+Student obj1 = new Student(obj);
+obj1.getDetails();
+obj1.firstName = "Vijay";
+obj1.lastName = "Lonkar";
+obj.getDetails();
+obj1.getDetails();*/
+
+/* Private Constructor*/
+
+
+//Student obj = new Student();
+
+

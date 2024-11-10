@@ -23,8 +23,61 @@
 /*All Operation from constructor*/
 /**/
 
-class Student
+/*class Student
 {
+    public string firstName;
+    public string lastName;
+    public Student()
+    {
+        Console.WriteLine("Default Constructor")    ;
+    }
+    public Student(string firstname,string lastName)
+    {
+        this.firstName = firstname ;
+        this.lastName = lastName ;
+        Console.WriteLine("parameter Constructor");
+    }
+
+    public Student(Student student) {
+
+        firstName=student.firstName;
+        lastName=student.lastName;
+    }
+    public void Details()
+    {
+        Console.WriteLine($"firstName: {firstName} lastName: {lastName}");
+    }
 
 
-}
+}*/
+
+/*class Student
+{
+    public string firstName { get; set; }
+    public string lastName { get; set; }
+
+    public Student(string FirstName,string LastName)
+    {
+        firstName=FirstName;
+        lastName=LastName;
+    }
+
+    public Student(Student student)
+    {
+        firstName=student.firstName;
+        lastName=student.lastName;
+    }
+    public void getDetails()
+    {
+        Console.WriteLine($"firstName: {firstName} LastName: {lastName}");
+    }
+}*/
+
+//class Student
+//{
+//    private Student()
+//    {
+
+//        Console.WriteLine("Private Constructor");
+//    }
+//}
