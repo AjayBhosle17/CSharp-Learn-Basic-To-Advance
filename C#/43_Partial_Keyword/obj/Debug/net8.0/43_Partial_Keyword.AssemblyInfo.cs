@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("43_Partial_Keyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c2962b7b1ddc1d333fa4d0714fe5725d1f5384")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af949a61c0269aca2cecd62a6db57b8609c56513")]
 [assembly: System.Reflection.AssemblyProductAttribute("43_Partial_Keyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("43_Partial_Keyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

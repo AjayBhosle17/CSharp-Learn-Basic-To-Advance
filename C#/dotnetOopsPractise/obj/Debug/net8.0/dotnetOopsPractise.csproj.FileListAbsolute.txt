@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\bin\Debug\net8.0\dotnetOopsPractise.exe
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\bin\Debug\net8.0\dotnetOopsPractise.deps.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\bin\Debug\net8.0\dotnetOopsPractise.runtimeconfig.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\bin\Debug\net8.0\dotnetOopsPractise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\bin\Debug\net8.0\dotnetOopsPractise.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.AssemblyInfo.cs
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.sourcelink.json
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\refint\dotnetOopsPractise.dll
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.pdb
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\dotnetOopsPractise.genruntimeconfig.cache
+D:\Coding2\Ajay V#\C# Github\CSharp-Learn-Basic-To-Advance\C#\dotnetOopsPractise\obj\Debug\net8.0\ref\dotnetOopsPractise.dll
