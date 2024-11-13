@@ -131,7 +131,7 @@ class Sub : Addition
 
 /* Operator Overload*/
 
-
+/*
 class Student
 {
     public int Number1 { get; set; }
@@ -147,5 +147,49 @@ class Student
         student.Number2= obj1.Number2+obj1.Number1;
         return student;
 
+    }
+}*/
+
+/*
+class Student {
+
+    public string firstName { get; set; }
+    public string lastName { get; set; }
+
+    public static bool operator ==(Student student1, Student student2) { 
+    
+        return student1.firstName == student2.firstName && student1.lastName == student2.lastName;
+    }
+    public static bool operator !=(Student student1, Student student2)
+    {
+
+        return (student1.firstName == student2.firstName) && (student1.lastName == student2.lastName);
+    }
+
+}*/
+
+namespace AB
+{
+    class Student
+    {
+
+        public Student()
+        {
+
+            Console.WriteLine("Default Constructor");
+        }
+    }
+}
+
+namespace BA
+{
+    class Student
+    {
+
+        public Student()
+        {
+
+            Console.WriteLine("Default Constructor");
+        }
     }
 }

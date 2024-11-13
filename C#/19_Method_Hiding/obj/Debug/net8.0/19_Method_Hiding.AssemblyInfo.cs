@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19_Method_Hiding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af949a61c0269aca2cecd62a6db57b8609c56513")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba39f0ff3924249b0272f4ae609002864fea3a2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("19_Method_Hiding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19_Method_Hiding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
