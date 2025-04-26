@@ -23,3 +23,5 @@ s2.FullPrintName();
 
 Student s3 = new Student(s2);
 s3.FullPrintName();
+
+Console.ReadKey();

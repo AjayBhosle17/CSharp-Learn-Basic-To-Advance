@@ -81,3 +81,14 @@
 //        Console.WriteLine("Private Constructor");
 //    }
 //}
+
+
+interface demo {
+
+    public int MyProperty { get; set; }
+    static int x = 10;
+    void Demo1()
+    {
+        Console.WriteLine("hii");
+    }
+}

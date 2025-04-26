@@ -24,8 +24,8 @@ s3.display();
 
 Console.WriteLine(Student.designation);
 // object intializer
-Student s3 = new Student(){ RollNo=20,Name="krushna" ,Age=22};
-s3.display();
+Student s8 = new Student(){ RollNo=20,Name="krushna" ,Age=22};
+s8.display();
 
 
 //Country obj1 = new Country();

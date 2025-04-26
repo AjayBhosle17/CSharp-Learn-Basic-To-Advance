@@ -155,6 +155,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetPractise", "dotnetPra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetOopsPractise", "dotnetOopsPractise\dotnetOopsPractise.csproj", "{44ED753A-D1CB-41E6-9844-2706E1FD72B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revision", "Revision\Revision.csproj", "{B6EE20E0-D198-4C96-BC57-062F76AA97A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempdb", "Tempdb\Tempdb.csproj", "{DFE99143-3B5A-462F-89DD-50577623A1F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -461,6 +465,14 @@ Global
 		{44ED753A-D1CB-41E6-9844-2706E1FD72B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44ED753A-D1CB-41E6-9844-2706E1FD72B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44ED753A-D1CB-41E6-9844-2706E1FD72B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EE20E0-D198-4C96-BC57-062F76AA97A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE20E0-D198-4C96-BC57-062F76AA97A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE20E0-D198-4C96-BC57-062F76AA97A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE20E0-D198-4C96-BC57-062F76AA97A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE99143-3B5A-462F-89DD-50577623A1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE99143-3B5A-462F-89DD-50577623A1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE99143-3B5A-462F-89DD-50577623A1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE99143-3B5A-462F-89DD-50577623A1F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

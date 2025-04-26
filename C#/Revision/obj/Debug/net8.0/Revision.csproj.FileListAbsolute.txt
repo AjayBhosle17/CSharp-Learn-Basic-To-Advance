@@ -1,0 +1,15 @@
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\bin\Debug\net8.0\Revision.exe
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\bin\Debug\net8.0\Revision.deps.json
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\bin\Debug\net8.0\Revision.runtimeconfig.json
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\bin\Debug\net8.0\Revision.dll
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\bin\Debug\net8.0\Revision.pdb
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.AssemblyInfoInputs.cache
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.AssemblyInfo.cs
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.sourcelink.json
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.dll
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\refint\Revision.dll
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.pdb
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\Revision.genruntimeconfig.cache
+D:\Coding2\Ajay VHassh\C# Github\CSharp-Learn-Basic-To-Advance\C#\Revision\obj\Debug\net8.0\ref\Revision.dll

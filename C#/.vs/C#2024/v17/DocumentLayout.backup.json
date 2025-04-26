@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetpractise\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|solutionrelative:dotnetpractise\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetpractise\\dotnetpractise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{74EFD40D-4F8F-4ED6-94CC-F339A6AF7F10}|dotnetPractise\\dotnetPractise.csproj|solutionrelative:dotnetpractise\\dotnetpractise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\revision.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\revision.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78336AEE-80DF-4894-BE06-E2676F607614}|15_Constructor\\15_Constructor.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\15_constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78336AEE-80DF-4894-BE06-E2676F607614}|15_Constructor\\15_Constructor.csproj|solutionrelative:15_constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78336AEE-80DF-4894-BE06-E2676F607614}|15_Constructor\\15_Constructor.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\15_constructor\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78336AEE-80DF-4894-BE06-E2676F607614}|15_Constructor\\15_Constructor.csproj|solutionrelative:15_constructor\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\14 classes \u0026 object\\objectcreateandstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|solutionrelative:14 classes \u0026 object\\objectcreateandstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\14 classes \u0026 object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE213C52-1FE6-454D-B2E8-0C2ADDB25085}|14 Classes \u0026 Object\\14 Classes \u0026 Object.csproj|solutionrelative:14 classes \u0026 object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED753A-D1CB-41E6-9844-2706E1FD72B8}|dotnetOopsPractise\\dotnetOopsPractise.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetoopspractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED753A-D1CB-41E6-9844-2706E1FD72B8}|dotnetOopsPractise\\dotnetOopsPractise.csproj|solutionrelative:dotnetoopspractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ED753A-D1CB-41E6-9844-2706E1FD72B8}|dotnetOopsPractise\\dotnetOopsPractise.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetoopspractise\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ED753A-D1CB-41E6-9844-2706E1FD72B8}|dotnetOopsPractise\\dotnetOopsPractise.csproj|solutionrelative:dotnetoopspractise\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D14EB-31D7-464C-9A56-A9592022AD77}|20_polymorphism_Opeartor_OverLoading\\20_polymorphism_Opeartor_OverLoading.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\20_polymorphism_opeartor_overloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D14EB-31D7-464C-9A56-A9592022AD77}|20_polymorphism_Opeartor_OverLoading\\20_polymorphism_Opeartor_OverLoading.csproj|solutionrelative:20_polymorphism_opeartor_overloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA933B7D-4550-4DD7-A1A8-4942A9194F89}|22_Calculator_Library\\22_Calculator_Library.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\22_calculator_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA933B7D-4550-4DD7-A1A8-4942A9194F89}|22_Calculator_Library\\22_Calculator_Library.csproj|solutionrelative:22_calculator_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF6D00-E8C6-4969-B8C0-31B3A9DA22A6}|22_Math_Library\\22_Math_Library.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\22_math_library\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF6D00-E8C6-4969-B8C0-31B3A9DA22A6}|22_Math_Library\\22_Math_Library.csproj|solutionrelative:22_math_library\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA933B7D-4550-4DD7-A1A8-4942A9194F89}|22_Calculator_Library\\22_Calculator_Library.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\22_calculator_library\\using1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA933B7D-4550-4DD7-A1A8-4942A9194F89}|22_Calculator_Library\\22_Calculator_Library.csproj|solutionrelative:22_calculator_library\\using1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF6D00-E8C6-4969-B8C0-31B3A9DA22A6}|22_Math_Library\\22_Math_Library.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\22_math_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF6D00-E8C6-4969-B8C0-31B3A9DA22A6}|22_Math_Library\\22_Math_Library.csproj|solutionrelative:22_math_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A85A7B-CBF3-419D-8B43-C6CB0A2AA960}|21_Namespace\\21_Namespace.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\21_namespace\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A85A7B-CBF3-419D-8B43-C6CB0A2AA960}|21_Namespace\\21_Namespace.csproj|solutionrelative:21_namespace\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A85A7B-CBF3-419D-8B43-C6CB0A2AA960}|21_Namespace\\21_Namespace.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\21_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A85A7B-CBF3-419D-8B43-C6CB0A2AA960}|21_Namespace\\21_Namespace.csproj|solutionrelative:21_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetOopsPractise\\Program.cs",
+              "RelativeDocumentMoniker": "dotnetOopsPractise\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetOopsPractise\\Program.cs",
+              "RelativeToolTip": "dotnetOopsPractise\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:42:02.504Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dotnetPractise",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\dotnetPractise.csproj",
+              "RelativeDocumentMoniker": "dotnetPractise\\dotnetPractise.csproj",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\dotnetPractise.csproj",
+              "RelativeToolTip": "dotnetPractise\\dotnetPractise.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T11:28:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "temp.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\temp.cs",
+              "RelativeDocumentMoniker": "dotnetPractise\\temp.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\temp.cs*",
+              "RelativeToolTip": "dotnetPractise\\temp.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:27:51.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Revision",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Revision.csproj",
+              "RelativeDocumentMoniker": "Revision\\Revision.csproj",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Revision.csproj",
+              "RelativeToolTip": "Revision\\Revision.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T11:11:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Demo.cs",
+              "RelativeDocumentMoniker": "Revision\\Demo.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Demo.cs*",
+              "RelativeToolTip": "Revision\\Demo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:10:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Program.cs",
+              "RelativeDocumentMoniker": "Revision\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Program.cs",
+              "RelativeToolTip": "Revision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:09:31.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\15_Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "15_Constructor\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\15_Constructor\\Program.cs",
+              "RelativeToolTip": "15_Constructor\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:17:30.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "constructor.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\15_Constructor\\constructor.cs",
+              "RelativeDocumentMoniker": "15_Constructor\\constructor.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\15_Constructor\\constructor.cs",
+              "RelativeToolTip": "15_Constructor\\constructor.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:17:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectCreateandstatic.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "RelativeDocumentMoniker": "14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "RelativeToolTip": "14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:14:44.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\14 Classes \u0026 Object\\Program.cs",
+              "RelativeDocumentMoniker": "14 Classes \u0026 Object\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\14 Classes \u0026 Object\\Program.cs",
+              "RelativeToolTip": "14 Classes \u0026 Object\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:14:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Using1.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\Using1.cs",
+              "RelativeDocumentMoniker": "22_Calculator_Library\\Using1.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\Using1.cs",
+              "RelativeToolTip": "22_Calculator_Library\\Using1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:55:47.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\Program.cs",
+              "RelativeDocumentMoniker": "22_Math_Library\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\Program.cs",
+              "RelativeToolTip": "22_Math_Library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:53:40.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Using.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\Using.cs",
+              "RelativeDocumentMoniker": "22_Math_Library\\Using.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\Using.cs",
+              "RelativeToolTip": "22_Math_Library\\Using.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:53:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\Calculator.cs",
+              "RelativeDocumentMoniker": "22_Calculator_Library\\Calculator.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\Calculator.cs",
+              "RelativeToolTip": "22_Calculator_Library\\Calculator.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:53:13.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\21_Namespace\\Student.cs",
+              "RelativeDocumentMoniker": "21_Namespace\\Student.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\21_Namespace\\Student.cs",
+              "RelativeToolTip": "21_Namespace\\Student.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:51:41.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\21_Namespace\\Program.cs",
+              "RelativeDocumentMoniker": "21_Namespace\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\21_Namespace\\Program.cs",
+              "RelativeToolTip": "21_Namespace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:50:56.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
+              "RelativeDocumentMoniker": "20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
+              "RelativeToolTip": "20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:13:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetOopsPractise\\Customer.cs",
+              "RelativeDocumentMoniker": "dotnetOopsPractise\\Customer.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetOopsPractise\\Customer.cs",
+              "RelativeToolTip": "dotnetOopsPractise\\Customer.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAKwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:42:45.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
