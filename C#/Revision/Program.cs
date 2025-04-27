@@ -1,5 +1,7 @@
 ﻿
+using Revision;
 
-Demo1 obj = new Demo();
+Demo demo = new Demo();
+demo.fun();
 
-obj.GetAll();
+Console.ReadLine();
