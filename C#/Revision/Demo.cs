@@ -36,5 +36,26 @@ namespace Revision
             //Console.WriteLine(arr(20));
         }
 
+
+
+
+        private int b = 10;
+
+
+        public int getvalue {
+
+            get { return b; }
+            set { b = value; }
+        }
+        public int fun1() { 
+        
+            return b;
+
+        }
+
+
+       
+
+
     }
 }

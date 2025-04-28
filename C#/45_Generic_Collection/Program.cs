@@ -313,6 +313,8 @@ Tuple<int, int, int, int, int, int, int, Tuple<int, string, string>> tp1 = new T
 Console.WriteLine(tp1.Rest.Item3);
 Console.WriteLine();
 
+
+
 // Multiple values return
 
 Console.WriteLine("Multiple Value Return");

@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D0236A-C820-40A7-A949-26867E3EA170}|41_Generic_Delegate\\41_Generic_Delegate.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\41_generic_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D0236A-C820-40A7-A949-26867E3EA170}|41_Generic_Delegate\\41_Generic_Delegate.csproj|solutionrelative:41_generic_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F83B2-B81E-41E8-BA76-03567CAA53A5}|45_Generic_Collection\\45_Generic_Collection.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\45_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F83B2-B81E-41E8-BA76-03567CAA53A5}|45_Generic_Collection\\45_Generic_Collection.csproj|solutionrelative:45_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\revision\\collectionprcatise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EE20E0-D198-4C96-BC57-062F76AA97A5}|Revision\\Revision.csproj|solutionrelative:revision\\collectionprcatise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212A86D-484C-451E-A004-802543B14C17}|44_Collection_NonGeneric\\44_Collection_NonGeneric.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\44_collection_nongeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212A86D-484C-451E-A004-802543B14C17}|44_Collection_NonGeneric\\44_Collection_NonGeneric.csproj|solutionrelative:44_collection_nongeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A951E473-7456-4076-BA33-8BC7A347EAA2}|31_CustomException\\31_CustomException.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\31_customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{A64A9A5C-4F8F-457F-9C32-9AECB4DAEDFC}|30_Exception\\30_Exception.csproj|solutionrelative:30_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A64A9A5C-4F8F-457F-9C32-9AECB4DAEDFC}|30_Exception\\30_Exception.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\30_exception\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64A9A5C-4F8F-457F-9C32-9AECB4DAEDFC}|30_Exception\\30_Exception.csproj|solutionrelative:30_exception\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A54388-C316-45B7-84B6-082447F2D0AB}|29_Indexer\\29_Indexer.csproj|solutionrelative:29_indexer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44ED753A-D1CB-41E6-9844-2706E1FD72B8}|dotnetOopsPractise\\dotnetOopsPractise.csproj|d:\\coding2\\ajay vhassh\\c# github\\csharp-learn-basic-to-advance\\c#\\dotnetoopspractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,7 +150,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetOopsPractise\\Program.cs",
               "RelativeDocumentMoniker": "dotnetOopsPractise\\Program.cs",
@@ -160,56 +180,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Extension.cs",
+              "RelativeDocumentMoniker": "Revision\\Extension.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Extension.cs*",
+              "RelativeToolTip": "Revision\\Extension.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:08:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectionPrcatise.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\CollectionPrcatise.cs",
+              "RelativeDocumentMoniker": "Revision\\CollectionPrcatise.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\CollectionPrcatise.cs",
+              "RelativeToolTip": "Revision\\CollectionPrcatise.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:36:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\45_Generic_Collection\\Program.cs",
+              "RelativeDocumentMoniker": "45_Generic_Collection\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\45_Generic_Collection\\Program.cs",
+              "RelativeToolTip": "45_Generic_Collection\\Program.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAuwDsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:33:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\44_Collection_NonGeneric\\Program.cs",
+              "RelativeDocumentMoniker": "44_Collection_NonGeneric\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\44_Collection_NonGeneric\\Program.cs",
+              "RelativeToolTip": "44_Collection_NonGeneric\\Program.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:27:17.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Demo.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Demo.cs",
               "RelativeDocumentMoniker": "Revision\\Demo.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Demo.cs*",
-              "RelativeToolTip": "Revision\\Demo.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA2wB0AAAAlAAAAAAAAAA==",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Demo.cs",
+              "RelativeToolTip": "Revision\\Demo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwDgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T10:26:38.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\31_CustomException\\Program.cs",
-              "RelativeDocumentMoniker": "31_CustomException\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\31_CustomException\\Program.cs",
-              "RelativeToolTip": "31_CustomException\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEgAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Program.cs",
+              "RelativeDocumentMoniker": "Revision\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Program.cs",
+              "RelativeToolTip": "Revision\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:57:24.794Z",
+              "WhenOpened": "2025-04-26T11:09:31.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyCustomException.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception_1\\MyCustomException.cs",
-              "RelativeDocumentMoniker": "30_Exception_1\\MyCustomException.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception_1\\MyCustomException.cs",
-              "RelativeToolTip": "30_Exception_1\\MyCustomException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:56:20.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception\\Program.cs",
-              "RelativeDocumentMoniker": "30_Exception\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception\\Program.cs",
-              "RelativeToolTip": "30_Exception\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\41_Generic_Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "41_Generic_Delegate\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\41_Generic_Delegate\\Program.cs",
+              "RelativeToolTip": "41_Generic_Delegate\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:35:27.978Z"
+              "WhenOpened": "2025-04-29T10:18:01.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception\\Calculator.cs",
               "RelativeDocumentMoniker": "30_Exception\\Calculator.cs",
@@ -221,20 +282,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Program.cs",
-              "RelativeDocumentMoniker": "Revision\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Program.cs",
-              "RelativeToolTip": "Revision\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "30_Exception\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception\\Program.cs",
+              "RelativeToolTip": "30_Exception\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:09:31.304Z",
+              "WhenOpened": "2025-04-28T06:35:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "29_Indexer\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Program.cs",
+              "RelativeToolTip": "29_Indexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:34:35.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Employee.cs",
+              "RelativeDocumentMoniker": "29_Indexer\\Employee.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Employee.cs",
+              "RelativeToolTip": "29_Indexer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:34:32.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Company.cs",
+              "RelativeDocumentMoniker": "29_Indexer\\Company.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Company.cs",
+              "RelativeToolTip": "29_Indexer\\Company.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:34:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception_1\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "30_Exception_1\\MyCustomException.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception_1\\MyCustomException.cs",
+              "RelativeToolTip": "30_Exception_1\\MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:56:20.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\31_CustomException\\Program.cs",
+              "RelativeDocumentMoniker": "31_CustomException\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\31_CustomException\\Program.cs",
+              "RelativeToolTip": "31_CustomException\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:57:24.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\30_Exception_1\\Calculator.cs",
               "RelativeDocumentMoniker": "30_Exception_1\\Calculator.cs",
@@ -246,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "myCustomException.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\31_CustomException\\myCustomException.cs",
               "RelativeDocumentMoniker": "31_CustomException\\myCustomException.cs",
@@ -258,43 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Program.cs",
-              "RelativeDocumentMoniker": "29_Indexer\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Program.cs",
-              "RelativeToolTip": "29_Indexer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:34:35.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Employee.cs",
-              "RelativeDocumentMoniker": "29_Indexer\\Employee.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Employee.cs",
-              "RelativeToolTip": "29_Indexer\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:34:32.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Company.cs",
-              "RelativeDocumentMoniker": "29_Indexer\\Company.cs",
-              "ToolTip": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\29_Indexer\\Company.cs",
-              "RelativeToolTip": "29_Indexer\\Company.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:34:22.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Tempdb",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Tempdb\\Tempdb.csproj",
               "RelativeDocumentMoniker": "Tempdb\\Tempdb.csproj",
@@ -305,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Revision",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Revision\\Revision.csproj",
               "RelativeDocumentMoniker": "Revision\\Revision.csproj",
@@ -316,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\Tempdb\\Program.cs",
               "RelativeDocumentMoniker": "Tempdb\\Program.cs",
@@ -328,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "temp.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\temp.cs",
               "RelativeDocumentMoniker": "dotnetPractise\\temp.cs",
@@ -340,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "dotnetPractise",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetPractise\\dotnetPractise.csproj",
               "RelativeDocumentMoniker": "dotnetPractise\\dotnetPractise.csproj",
@@ -351,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\15_Constructor\\Program.cs",
               "RelativeDocumentMoniker": "15_Constructor\\Program.cs",
@@ -363,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "constructor.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\15_Constructor\\constructor.cs",
               "RelativeDocumentMoniker": "15_Constructor\\constructor.cs",
@@ -375,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ObjectCreateandstatic.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
               "RelativeDocumentMoniker": "14 Classes \u0026 Object\\ObjectCreateandstatic.cs",
@@ -387,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\14 Classes \u0026 Object\\Program.cs",
               "RelativeDocumentMoniker": "14 Classes \u0026 Object\\Program.cs",
@@ -399,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Using1.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\Using1.cs",
               "RelativeDocumentMoniker": "22_Calculator_Library\\Using1.cs",
@@ -411,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\Program.cs",
               "RelativeDocumentMoniker": "22_Math_Library\\Program.cs",
@@ -423,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Using.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Math_Library\\Using.cs",
               "RelativeDocumentMoniker": "22_Math_Library\\Using.cs",
@@ -435,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\22_Calculator_Library\\Calculator.cs",
               "RelativeDocumentMoniker": "22_Calculator_Library\\Calculator.cs",
@@ -447,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\21_Namespace\\Student.cs",
               "RelativeDocumentMoniker": "21_Namespace\\Student.cs",
@@ -459,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\21_Namespace\\Program.cs",
               "RelativeDocumentMoniker": "21_Namespace\\Program.cs",
@@ -471,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
               "RelativeDocumentMoniker": "20_polymorphism_Opeartor_OverLoading\\Calculator.cs",
@@ -483,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\C# Github\\CSharp-Learn-Basic-To-Advance\\C#\\dotnetOopsPractise\\Customer.cs",
               "RelativeDocumentMoniker": "dotnetOopsPractise\\Customer.cs",
